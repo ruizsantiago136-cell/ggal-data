@@ -1,28 +1,1001 @@
-,"Instrucciones
-Escribe el símbolo bursátil en la celda B4.",,,,,CON LA TECNOLOGÍA DE
-,,,,,,Google Finance
-,,,,,,
-,GGAL,<< Escribe un símbolo.,,,,
-,BCBA,"<< Opcionalmente, escribe el mercado donde cotiza el valor (p. ej., NASDAQ o NYSE).",,,,
-,,,,,,
-,Grupo Financiero Galicia SA,,,,,
-,,,,,,
-,Precio actual,,Variación,% de variación,,
-,"6.115,00",,"+85,00","+1,41%",,
-,,,,,,
-,,,,,,
-,Capitalización,PER,Beta,,,
-,5.818M,"10,69",-,,,
-,,,,,,12 meses
-,,,,,,
-,,,,,,
-,BCBA:GGAL,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,#N/A,,,,,
+MERCADO,TICKER,STOCK,#N/A,,,,,,var%_today,ln,VH(10),VH(20),VH(30),VH(40),VH(60),VH-YTD
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%","0,0000000",,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+BCBA,GGAL,BCBA:GGAL,,,,,,,"1,41%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,
+MERCADO,TICKER,STOCK,#N/A,,,,,,var%_today,ln,VH(10),VH(20),VH(30),VH(40),VH(60),VH-YTD
+,SPY,SPY,,,,,,,"0,26%","0,0000000",,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,SPY,SPY,,,,,,,"0,26%",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,
+MERCADO,TICKER,STOCK,Date,Open,High,Low,Close,Volume,var%_today,ln,VH(10),VH(20),VH(30),VH(40),VH(60),VH-YTD
+NASDAQ,QQQ,NASDAQ:QQQ,17/03/2025 16:00:00,"479,61","485,84","477,8","482,77",41744354,"0,49%","0,0000000",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/03/2025 16:00:00,"479,41","479,61","472,41","474,54",39072265,"0,49%","-0,0171944",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,19/03/2025 16:00:00,"476,81","485,33","474,87","480,89",40430334,"0,49%","0,0132926",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/03/2025 16:00:00,"476,88","484,55","476,18","479,26",36780549,"0,49%","-0,0033953",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/03/2025 16:00:00,"474,08","481,61","472,91","480,84",42234874,"0,49%","0,0032913",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/03/2025 16:00:00,"487,74","491,51","484,4","490,66",34567186,"0,49%","0,0202168",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/03/2025 16:00:00,"491,39","493,62","490,42","493,46",26035241,"0,49%","0,0056904",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/03/2025 16:00:00,"492,3","493,16","482,82","484,38",35043357,"0,49%","-0,0185721",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,27/03/2025 16:00:00,"482,41","486,58","480,25","481,62",33469817,"0,49%","-0,0057143",,,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/03/2025 16:00:00,"479,81","480,52","468,05","468,94",46363797,"0,49%","-0,0266806","0,2805501101",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,31/03/2025 16:00:00,"461,92","469,86","457,33","468,92",53000303,"0,49%","-0,0000427","0,2805323077",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,1/04/2025 16:00:00,"467,3","473,63","464,42","472,7",41156226,"0,49%","0,0080288","0,2696246197",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/04/2025 16:00:00,"466,12","479,56","465,86","476,15",49894489,"0,49%","0,0072720","0,259498418",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/04/2025 16:00:00,"456,44","460,07","450,14","450,66",70456338,"0,49%","-0,0550198","0,4179526419",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/04/2025 16:00:00,"438,14","440,37","422,67","422,67",117088441,"0,49%","-0,0641214","0,5375100708",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,7/04/2025 16:00:00,"408,66","443,14","402,39","423,69",161556970,"0,49%","0,0024103","0,5026604941",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/04/2025 16:00:00,"438,16","443,14","409,79","416,06",101248060,"0,49%","-0,0181726","0,4837706616",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/04/2025 16:00:00,"415,57","467,83","415,43",466,142876878,"0,49%","0,1133562","0,9236619241",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/04/2025 16:00:00,"453,56","455,59","432,63","446,18",108384092,"0,49%","-0,0434632","0,9543662201",,,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/04/2025 16:00:00,"444,65","455,79","441,33","454,4",52483779,"0,49%","0,0182554","0,9566242668","0,6861276949",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,14/04/2025 16:00:00,"464,46","465,05","452,63","457,48",43941179,"0,49%","0,0067553","0,9583996676","0,6873063164",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/04/2025 16:00:00,"458,54","462,38","456,15","457,99",35404210,"0,49%","0,0011142","0,9562357838","0,6843279751",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/04/2025 16:00:00,"449,03","452,62","437,76","444,18",48980552,"0,49%","-0,0306175","0,9668103815","0,6914278513",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/04/2025 16:00:00,"447,17","447,75","441,36","444,1",44837047,"0,49%","-0,0001801","0,9114131783","0,691615628",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/04/2025 16:00:00,"438,23","439,08","427,93","433,11",44149313,"0,49%","-0,0250580","0,8293671805","0,6966096085",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/04/2025 16:00:00,"438,82","447,58","437,62","444,48",52304388,"0,49%","0,0259133","0,8414009834","0,70101779",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/04/2025 16:00:00,"458,17","463,38","452,88","454,56",55801136,"0,49%","0,0224249","0,8321650247","0,709487902",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/04/2025 16:00:00,"456,48","467,66","455,83","467,35",45956136,"0,49%","0,0277485","0,4840792711","0,7188772117",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/04/2025 16:00:00,"466,97","473,09","465,39","472,56",38697063,"0,49%","0,0110863","0,3864686794","0,7206956919",,,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/04/2025 16:00:00,"473,03","474,81","466,03","472,41",33550778,"0,49%","-0,0003175","0,3782870605","0,7113531678","0,5973770345",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/04/2025 16:00:00,"470,17","476,42","469,59","475,53",30613120,"0,49%","0,0065827","0,3782354228","0,7118424909","0,5979183472",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/04/2025 16:00:00,"467,13","477,2","462,43","475,47",46810610,"0,49%","-0,0001262","0,3786758693","0,7110816555","0,5948778347",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,1/05/2025 16:00:00,"483,41","487,18","480,74","481,68",43316539,"0,49%","0,0129762","0,3020839761","0,712573264","0,5947902946",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/05/2025 16:00:00,"486,54","490,91","484,83","488,83",39218082,"0,49%","0,0147348","0,298916803","0,6689969903","0,5968250725",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/05/2025 16:00:00,"484,6","489,03","484,1","485,93",28309490,"0,49%","-0,0059502","0,2212875389","0,5974245775","0,5971824855",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/05/2025 16:00:00,"479,56","485,05","478,19","481,41",32786310,"0,49%","-0,0093453","0,2305309813","0,6012480791","0,593697258",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,7/05/2025 16:00:00,"482,08","485,8","476,78","483,3",38109864,"0,49%","0,0039183","0,2096775166","0,5912370846","0,5934917909",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/05/2025 16:00:00,"488,53","492,7","484,17","488,29",39577592,"0,49%","0,0102719","0,1564248449","0,3524201406","0,5910784282",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/05/2025 16:00:00,"490,21","491,54","486,2","487,97",27767416,"0,49%","-0,0006556","0,1520426094","0,2869078019","0,590697278",,,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/05/2025 16:00:00,"506,99","507,89","501,48","507,85",45090616,"0,49%","0,0399322","0,265961792","0,3199485771","0,5978626272","0,534906238",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/05/2025 16:00:00,"509,16","517,39","508,42","515,59",53269573,"0,49%","0,0151257","0,2700895211","0,3225368886","0,5993398203","0,5365201781",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,14/05/2025 16:00:00,"516,77","519,23","515,75","518,68",47014516,"0,49%","0,0059752","0,2650319021","0,3217960761","0,5991727531","0,5334626204",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/05/2025 16:00:00,"516,52","521,93","515,17","519,25",50153275,"0,49%","0,0010983","0,2669645055","0,2775236277","0,5990179098","0,5323652074",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/05/2025 16:00:00,"520,66","521,7","517,1","521,51",48394603,"0,49%","0,0043430","0,2629114317","0,2756892691","0,5613952385","0,5321554535",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,19/05/2025 16:00:00,"514,24","522,53","514,24","522,01",52536154,"0,49%","0,0009583","0,2527923484","0,2351152701","0,5036634298","0,5321537366",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/05/2025 16:00:00,"519,47","520,93","516,66","520,27",42517561,"0,49%","-0,0033388","0,2391202967","0,2286107501","0,5047261583","0,5293793047",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/05/2025 16:00:00,"516,27",523,"511,24","513,04",71292831,"0,49%","-0,0139941","0,2729018454","0,2368662652","0,5023241236","0,5312450502",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/05/2025 16:00:00,"513,66","517,71","512,3",514,55607169,"0,49%","0,0018695","0,2722527834","0,2162277832","0,3240851914","0,5277839617",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/05/2025 16:00:00,"506,18","511,84","505,58","509,24",58368075,"0,49%","-0,0093038","0,2844484001","0,2222246411","0,2811497953","0,528353215",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,27/05/2025 16:00:00,"516,15","521,71","514,59","521,22",47226323,"0,49%","0,0232528","0,2069148769","0,2363267775","0,2847651504","0,5250417603",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/05/2025 16:00:00,"522,18","523,68","518,39","518,91",46637175,"0,49%","-0,0044418","0,192111434","0,2395048318","0,2863590763","0,5254203409",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/05/2025 16:00:00,"526,33","526,48","517,32","519,93",58724069,"0,49%","0,0019637","0,1890999745","0,2389176569","0,2862591708","0,52514591",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/05/2025 16:00:00,"519,44","520,68","511,93","519,11",67662836,"0,49%","-0,0015784","0,1892990078","0,2370457627","0,2583262292","0,5250549552",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/06/2025 16:00:00,"517,24","523,45","515,97","523,21",44762817,"0,49%","0,0078671","0,1937435244","0,2327032543","0,2577426177","0,4944323352",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/06/2025 16:00:00,"523,56","528,74","522,69","527,3",44070330,"0,49%","0,0077867","0,198969773","0,2294788951","0,2330686004","0,4475691691",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/06/2025 16:00:00,"528,01","529,84","525,97","528,77",41359322,"0,49%","0,0027839","0,1969730969","0,2215549707","0,2226238758","0,4475462249",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/06/2025 16:00:00,"530,18","533,05","522,66","524,79",61286623,"0,49%","-0,0075554","0,1793231809","0,2276621904","0,2189560675","0,4434118022",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/06/2025 16:00:00,530,"531,8","528,21","529,92",42467021,"0,49%","0,0097279","0,1848217658","0,2273913844","0,2036610141","0,2932342445",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/06/2025 16:00:00,"530,14","532,35","529,01","530,7",33688671,"0,49%","0,0014708","0,1661314627","0,2267191814","0,2023192365","0,2552485361",,"0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/06/2025 16:00:00,"531,17","534,9","528,89","534,21",40664795,"0,49%","0,0065921","0,1090244131","0,1609731946","0,2019554469","0,2517032232","0,4445331416","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/06/2025 16:00:00,"535,62","536,78","530,11","532,41",53701033,"0,49%","-0,0033752","0,1064453098","0,1523344404","0,2033952439","0,2525412787","0,4446903224","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/06/2025 16:00:00,"531,09","534,64","530,84","533,66",34104887,"0,49%","0,0023451","0,10638238","0,1511183514","0,2029822598","0,252446482","0,4421772958","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/06/2025 16:00:00,"527,68","531,87","525,73","526,96",55814443,"0,49%","-0,0126343","0,1397552005","0,1626346915","0,208080406","0,2347069054","0,4426890615","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/06/2025 16:00:00,"530,5","535,37","530,45","534,29",37622051,"0,49%","0,0138141","0,154574502","0,1714622726","0,2074504495","0,2360255475","0,4435398956","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/06/2025 16:00:00,"531,71","533,33","527,91","529,08",42180866,"0,49%","-0,0097991","0,1645097043","0,177807424","0,2099514364","0,2221610512","0,4444439327","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/06/2025 16:00:00,"530,1","532,55","527,4","528,99",43983522,"0,49%","-0,0001701","0,1636938056","0,1769472926","0,2056464842","0,2129671673","0,441996763","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/06/2025 16:00:00,"532,26","533,56","524,88","526,83",61643519,"0,49%","-0,0040916","0,1584273065","0,1657090295","0,2071581142","0,2068831746","0,4420477928","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/06/2025 16:00:00,"526,81","532,17","523,65","531,65",50666146,"0,49%","0,0091075","0,1569817162","0,1690167168","0,2066740275","0,193846523","0,4396965425","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/06/2025 16:00:00,"536,89","540,7","536,27","539,78",45441982,"0,49%","0,0151763","0,1810307369","0,1707774538","0,2106472634","0,1957833642","0,4405788961","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/06/2025 16:00:00,"542,06","543,31","539,38","541,16",44804168,"0,49%","0,0025533","0,1782238415","0,1442484835","0,16420502","0,195475327","0,4347077789","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/06/2025 16:00:00,"543,35","546,67","541,52","546,22",43811432,"0,49%","0,0093068","0,1811978449","0,1446355621","0,1595928311","0,1960631889","0,4349959934","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,27/06/2025 16:00:00,"547,26","549,99","544,54","548,09",57577147,"0,49%","0,0034177","0,1812619201","0,1446529006","0,159023943","0,1957477232","0,4347848804","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/06/2025 16:00:00,"551,26","552,8","549,01","551,64",45548742,"0,49%","0,0064562","0,1498774668","0,1442262707","0,1598063194","0,193791398","0,4347337475","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,1/07/2025 16:00:00,"549,73","550,71","544,66","546,99",56166736,"0,49%","-0,0084651","0,1545587875","0,1504646526","0,1636583497","0,1937528161","0,4111849306","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/07/2025 16:00:00,"546,16",551,"546,12","550,8",36538281,"0,49%","0,0069412","0,1327473693","0,149906312","0,164694934","0,1922048078","0,374934325","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/07/2025 13:05:00,"553,18","557,2","553,18","556,22",26443524,"0,49%","0,0097921","0,1336261235","0,1533976426","0,1659129746","0,1892481543","0,3751324068","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,7/07/2025 16:00:00,"553,52","554,34","549,58","552,03",45349323,"0,49%","-0,0075615","0,1444288218","0,1534053933","0,1593861271","0,1922274788","0,3720589642","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/07/2025 16:00:00,"553,38","554,01","551,1","552,34",36153258,"0,49%","0,0005614","0,1430076955","0,1501057792","0,1595104825","0,1911779269","0,2533809506","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/07/2025 16:00:00,"554,48","557,63","553,1","556,25",43045534,"0,49%","0,0070540","0,1240006384","0,1515641879","0,1545338415","0,1911860443","0,2253650385","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/07/2025 16:00:00,"556,89","557,3","552,75","555,45",34710913,"0,49%","-0,0014392","0,1269033485","0,151129726","0,1366570055","0,1542167461","0,222701667","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/07/2025 16:00:00,"553,3","555,79","552,05","554,2",39618635,"0,49%","-0,0022530","0,1212409162","0,1504446799","0,1355429036","0,1494891912","0,2229568771","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,14/07/2025 16:00:00,"553,99","556,95","551,63","556,21",36453314,"0,49%","0,0036203","0,1213803442","0,1505985146","0,1356307438","0,1490429961","0,2228977491","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/07/2025 16:00:00,"560,25","560,8","556,66","556,72",43277661,"0,49%","0,0009165","0,1166754652","0,1355574119","0,1350225895","0,1490514087","0,2062116537","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/07/2025 16:00:00,"557,28","560,21","551,56","557,29",52314711,"0,49%","0,0010233","0,09838120944","0,126185418","0,1335938597","0,1488464254","0,2060905863","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/07/2025 16:00:00,"558,02","562,31","557,21","561,8",40423778,"0,49%","0,0080602","0,1009218273","0,1165065752","0,1337435854","0,1500744961","0,1932022845","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/07/2025 16:00:00,"563,12","564,73","559,98","561,26",50484704,"0,49%","-0,0009617","0,08711956869","0,1169685195","0,1341444609","0,1494778885","0,1858654219","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/07/2025 16:00:00,"562,09","566,06","562,06","564,17",39595214,"0,49%","0,0051714","0,06903958783","0,1128612025","0,1300312598","0,1414038131","0,1799991489","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/07/2025 16:00:00,"564,3","564,35","558,61","561,25",43270647,"0,49%","-0,0051892","0,08201392988","0,1155244532","0,1298780541","0,1432357716","0,1707579537","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/07/2025 16:00:00,"562,34","563,85","559,58","563,81",40215259,"0,49%","0,0045509","0,07647016257","0,1015711747","0,1301895454","0,1388708514","0,1696124926","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/07/2025 16:00:00,"565,13","566,24","563,29","565,01",42275541,"0,49%","0,0021261","0,07419609453","0,1015572256","0,129142118","0,1231627134","0,1694289173","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/07/2025 16:00:00,"564,93","567,7","564,27","566,37",30630813,"0,49%","0,0024041","0,069289553","0,09636948336","0,1277545269","0,1215282037","0,1691930283","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/07/2025 16:00:00,"567,74","569,04","566,87","568,14",31498739,"0,49%","0,0031203","0,06893068415","0,09628258752","0,1278048199","0,1215584496","0,1690215752","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/07/2025 16:00:00,"570,76","572,11","566,53","567,26",45463317,"0,49%","-0,0015501","0,07221312381","0,09490411022","0,1171383765","0,1215502201","0,1674906401","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/07/2025 16:00:00,"568,18","570,62","565,05","568,02",43433777,"0,49%","0,0013389","0,07208715536","0,08394294302","0,1097644884","0,1203037621","0,1647856218","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,31/07/2025 16:00:00,"574,54","574,63","563,87","565,01",64613590,"0,49%","-0,0053132","0,07106371587","0,08606413423","0,104671499","0,1209682438","0,1645908576","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,1/08/2025 16:00:00,"558,83","559,02","551,68","553,88",69400789,"0,49%","-0,0198954","0,143131457","0,1173676444","0,1298535172","0,1373973229","0,1712167366","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/08/2025 16:00:00,"559,05","564,32","558,95","564,1",47669751,"0,49%","0,0182835","0,1834928858","0,1366246671","0,140660413","0,1440665538","0,1756460962","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/08/2025 16:00:00,"565,39","566,56","559,73","560,27",48666640,"0,49%","-0,0068127","0,1856005561","0,1407339268","0,1418883416","0,1442185264","0,1760695727","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/08/2025 16:00:00,"561,11","567,76","560,63","567,32",41823677,"0,49%","0,0125047","0,1995129077","0,147228524","0,1389822875","0,1480747611","0,1776911913","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,7/08/2025 16:00:00,"571,67","573,32","565,11","569,24",44462972,"0,49%","0,0033786","0,2000390127","0,1471429793","0,1390789265","0,1473912735","0,1509236949","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/08/2025 16:00:00,"570,45","574,77","570,15","574,55",35255472,"0,49%","0,0092850","0,20656534","0,150127517","0,1390638756","0,1483598606","0,1484245453","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/08/2025 16:00:00,"574,69","576,8","571,57","572,85",33112917,"0,49%","-0,0029632","0,2078171472","0,1512270425","0,1398424565","0,1490770956","0,1485080087","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/08/2025 16:00:00,"575,16","580,35","572,49","580,05",42271441,"0,49%","0,0124904","0,2183526257","0,1583238352","0,1440690126","0,1456340857","0,150882634","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/08/2025 16:00:00,"582,76","583,32","578,94","580,34",41209294,"0,49%","0,0004998","0,2185501949","0,1584049878","0,139447607","0,1413585189","0,1507868046","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,14/08/2025 16:00:00,"578,28","581,88","577,91","579,89",45425043,"0,49%","-0,0007757","0,2139403674","0,1564244515","0,1385822215","0,1368248605","0,1509059695","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/08/2025 16:00:00,"579,8","579,84","575,57","577,34",49480161,"0,49%","-0,0044071","0,1620699593","0,1581844583","0,1370082063","0,1381309315","0,1511517369","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/08/2025 16:00:00,"576,44","577,77","575,24","577,11",29830957,"0,49%","-0,0003985","0,1326142251","0,1574295663","0,1334469762","0,1370058958","0,1460323307","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,19/08/2025 16:00:00,"576,39","576,56","568,25","569,28",53752635,"0,49%","-0,0136605","0,1560401308","0,1677848139","0,1435206328","0,1434945763","0,1510306776","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/08/2025 16:00:00,"568,33","568,45","558,84","565,9",76781087,"0,49%","-0,0059550","0,1430100388","0,1691621313","0,1437948906","0,1390639818","0,1497412587","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/08/2025 16:00:00,"564,35","566,49","560,98","563,28",46436899,"0,49%","-0,0046405","0,1429631631","0,1701375836","0,1447889499","0,1400938569","0,1404895328","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/08/2025 16:00:00,"564,67","573,99","563,27","571,97",51502129,"0,49%","0,0153097","0,1637527439","0,1823581867","0,1533437525","0,1445278359","0,1439060984","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/08/2025 16:00:00,"570,4","573,29","569,16","570,32",34044749,"0,49%","-0,0028889","0,1637071145","0,182501223","0,1536521773","0,1448576057","0,1443320333","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/08/2025 16:00:00,"569,83","572,92","568,8","572,61",34103014,"0,49%","0,0040072","0,1432751368","0,1830258683","0,1540504884","0,1441806887","0,1442425039","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,27/08/2025 16:00:00,"571,59","574,41","570,37","573,49",36927144,"0,49%","0,0015356","0,1439353304","0,1830457554","0,1540644206","0,1412143331","0,1433929472","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/08/2025 16:00:00,"574,11",578,"572,46","577,08",46787857,"0,49%","0,0062404","0,1508256937","0,1826762474","0,1531361218","0,1409625063","0,1430257412","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/08/2025 16:00:00,"574,66","575,03","568,54","570,4",56030409,"0,49%","-0,0116430","0,1641980096","0,1672431266","0,1591787219","0,1435331059","0,1466082361","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/09/2025 16:00:00,"561,31","565,97","559,54","565,62",65876765,"0,49%","-0,0084154","0,1696455021","0,154050755","0,1612430559","0,1440115288","0,1469432238","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/09/2025 16:00:00,"569,23","571,7","566,73","570,07",54230213,"0,49%","0,0078367","0,1591685247","0,1540712059","0,1622779441","0,1456569892","0,1463409103","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/09/2025 16:00:00,"570,74","575,6","569,03","575,23",47526280,"0,49%","0,0090108","0,1615940365","0,1496612253","0,1644040731","0,1465617014","0,1475979887","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/09/2025 16:00:00,"580,49","581,12","571,53","576,06",68342532,"0,49%","0,0014419","0,156098697","0,1492214635","0,1643450271","0,1464009075","0,147010296","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/09/2025 16:00:00,"578,37","580,84","577,77","578,87",46371354,"0,49%","0,0048661","0,1314516555","0,1454239205","0,1649000167","0,146540444","0,1468089252","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/09/2025 16:00:00,"579,67","580,94","577,04","580,51",44007592,"0,49%","0,0028291","0,1287513336","0,1449745247","0,1648499599","0,1464319775","0,1468331681","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/09/2025 16:00:00,"583,74","583,77","578,55","580,7",49307959,"0,49%","0,0003272","0,1280768945","0,1348736586","0,1646548084","0,1464485396","0,1425864357","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/09/2025 16:00:00,"583,24","584,88","581,62","584,08",44745766,"0,49%","0,0058037","0,1308224814","0,1370938973","0,1655792652","0,1471493349","0,1396871748","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/09/2025 16:00:00,"585,04","587,86","584,1","586,66",50745886,"0,49%","0,0044075","0,1287688287","0,1380818233","0,1644342603","0,1459583764","0,136955503","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/09/2025 16:00:00,"588,44","591,79","588,29","591,68",44360315,"0,49%","0,0085205","0,09841936226","0,1401405096","0,1474283268","0,1475177335","0,1378870391","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/09/2025 16:00:00,"592,61","592,86","590,49","591,18",36942130,"0,49%","-0,0008454","0,06604434352","0,140253044","0,1358043932","0,1471666473","0,1372502441","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/09/2025 16:00:00,"591,1","591,75","584,37",590,69384820,"0,49%","-0,0019980","0,07187852398","0,1244686333","0,133078006","0,1461887508","0,1363832398","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/09/2025 16:00:00,"594,91","598,14","592,96","595,32",61069294,"0,49%","0,0089765","0,07177098141","0,1229614731","0,1300142144","0,1477274887","0,1334286264","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,19/09/2025 16:00:00,"597,33","600,05","595,85","599,35",58196109,"0,49%","0,0067467","0,07294868418","0,1197790142","0,1311183016","0,1486086232","0,1340072925","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/09/2025 16:00:00,"597,74","602,87","597,72","602,2",57154769,"0,49%","0,0047439","0,07289105931","0,10690767","0,12875532","0,1489132833","0,1328731614","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/09/2025 16:00:00,"602,37","602,57","596,98","598,2",64635486,"0,49%","-0,0066645","0,09729750723","0,111722953","0,1310216043","0,1508581951","0,1343508797","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/09/2025 16:00:00,"599,58","599,9","593,36","596,1",49850301,"0,49%","-0,0035167","0,1041154356","0,1142216719","0,1258285856","0,1513208276","0,1343073683","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/09/2025 16:00:00,"592,2","595,12","588,5","593,53",70920209,"0,49%","-0,0043207","0,1093837933","0,1173851559","0,127142838","0,1522490476","0,1328255642","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/09/2025 16:00:00,"594,35","596,3","591,06","595,97",54337416,"0,49%","0,0041026","0,1090820713","0,1161514975","0,1275444733","0,1511912076","0,1322711461","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/09/2025 16:00:00,"599,11","602,05","597,41","598,73",48332934,"0,49%","0,0046204","0,1012757497","0,1001834336","0,1266903947","0,1363870512","0,1308274989","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/09/2025 16:00:00,"598,43","600,71","596,1","600,37",46533814,"0,49%","0,0027354","0,1006738224","0,08753406002","0,1266603743","0,1266997531","0,1290003628","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,1/10/2025 16:00:00,"597,17","603,79","596,34","603,25",46899612,"0,49%","0,0047856","0,09933144219","0,08522271012","0,1150133545","0,124350721","0,1292511581","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/10/2025 16:00:00,"607,06","607,16","602,93","605,73",43765410,"0,49%","0,0041026","0,08979479976","0,08085010582","0,1116333924","0,1201302456","0,1286659197","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/10/2025 16:00:00,"606,51","607,33","601,39","603,18",46482098,"0,49%","-0,0042187","0,08940404987","0,08584712451","0,1113140783","0,1212864493","0,1292294567","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/10/2025 16:00:00,"608,45","609,36","605,97","607,71",41962115,"0,49%","0,0074821","0,09580664769","0,08804843095","0,1028065372","0,1203145519","0,1297687047","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,7/10/2025 16:00:00,"609,02","609,71","603,03","604,51",58209463,"0,49%","-0,0052796","0,09164053203","0,09395982713","0,1045665007","0,1213006598","0,1307374092","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/10/2025 16:00:00,"605,41","611,75","605,26","611,44",50629754,"0,49%","0,0113986","0,1048526237","0,1017006887","0,1094684804","0,1204033086","0,1330396226","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/10/2025 16:00:00,"611,48","611,61","607,48","610,7",45550958,"0,49%","-0,0012110","0,0980629982","0,1018429134","0,1100916549","0,1206227636","0,1332096757","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/10/2025 16:00:00,"611,4","613,18","589,05","589,5",97614783,"0,49%","-0,0353311","0,2497475879","0,1893793998","0,1697323116","0,1636217474","0,1602814759","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/10/2025 16:00:00,"599,68","602,95","597,23","602,01",65872584,"0,49%","0,0209993","0,2824077023","0,2065813452","0,1778279374","0,174272525","0,1677640939","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,14/10/2025 16:00:00,"595,31","602,69","590,13",598,69203187,"0,49%","-0,0066833","0,2851661551","0,2090013463","0,1766747549","0,1757875904","0,1685601548","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/10/2025 16:00:00,"604,01","606,7","595,93","602,22",62805456,"0,49%","0,0070321","0,287137641","0,2104222788","0,1763539191","0,1708014017","0,1684924181","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/10/2025 16:00:00,"605,11","608,31","595,5","599,99",70981963,"0,49%","-0,0037098","0,2863001097","0,2081802172","0,1754129519","0,1700286953","0,1687000276","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/10/2025 16:00:00,"597,95","605,51","596,37","603,93",72024872,"0,49%","0,0065453","0,2886950228","0,2080638665","0,1763273999","0,1696281171","0,16922788","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/10/2025 16:00:00,"607,14","612,8","607,07","611,54",45761697,"0,49%","0,0125221","0,2954315631","0,2137724084","0,1801076557","0,167739868","0,1715308163","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/10/2025 16:00:00,"611,64","612,72","609,32","611,38",44538161,"0,49%","-0,0002617","0,2929066706","0,2112298126","0,1802145062","0,167258299","0,1715090285","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/10/2025 16:00:00,"610,82","611,41","599,74","605,49",61478802,"0,49%","-0,0096806","0,2906127069","0,2154120128","0,184522359","0,1705977419","0,1734831707","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/10/2025 16:00:00,"604,91","611,37","604,52","610,58",42844298,"0,49%","0,0083713","0,2960168727","0,2164581763","0,1855094439","0,1718948875","0,1744109381","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/10/2025 16:00:00,"615,99","618,42","615,13","617,1",47632473,"0,49%","0,0106218","0,1818949882","0,2197786636","0,187993851","0,1735116915","0,1751539083","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,27/10/2025 16:00:00,"624,52","628,55","624,03","628,09",54098611,"0,49%","0,0176524","0,1703996403","0,2298767223","0,1947493098","0,1750255524","0,1712591073","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/10/2025 16:00:00,"630,36","634,68","629,25","632,92",61195733,"0,49%","0,0076606","0,1543891408","0,2309776483","0,1954490728","0,1724387643","0,1669984735","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/10/2025 16:00:00,"635,59","637,01","630,25","635,77",67422806,"0,49%","0,0044928","0,1542462752","0,2309287869","0,1949741306","0,1718213327","0,1656643738","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/10/2025 16:00:00,"632,17","633,5","625,94","626,05",61628621,"0,49%","-0,0154066","0,1935169731","0,2432424008","0,2031438645","0,1791395869","0,169094844","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,31/10/2025 16:00:00,"634,17","634,2","626,69","629,07",66305147,"0,49%","0,0048123","0,1929664205","0,2421137484","0,2026478083","0,1793100342","0,1692228694","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/11/2025 16:00:00,"635,11","635,82","629,85","632,08",37154307,"0,49%","0,0047734","0,1847179312","0,2412322182","0,2026535799","0,1792973597","0,1683296858","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/11/2025 16:00:00,"623,28","626,95","618,46","619,25",63830768,"0,49%","-0,0205069","0,2343831403","0,2581929591","0,2151382075","0,1919407868","0,176622956","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/11/2025 16:00:00,"618,49","626,6","617,21","623,28",48688484,"0,49%","0,0064868","0,2238391496","0,2553039414","0,2152350521","0,1924551675","0,1748815156","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/11/2025 16:00:00,"621,79","622,04","610,3","611,67",72115128,"0,49%","-0,0188029","0,2549279023","0,2688767644","0,2258203861","0,2017566594","0,1817056005","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,7/11/2025 16:00:00,"608,31","609,95","598,67","609,74",81835388,"0,49%","-0,0031603","0,2454521992","0,217747821","0,2259868246","0,201909547","0,1819347622","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/11/2025 16:00:00,"618,92","624,31","616,89","623,23",55919931,"0,49%","0,0218830","0,2595557698","0,2192806621","0,2374290762","0,2104439115","0,1886774703","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/11/2025 16:00:00,"620,57","622,72","617,52","621,57",44868841,"0,49%","-0,0026671","0,2533662247","0,2169788666","0,2377761087","0,2106894242","0,1888847875","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/11/2025 16:00:00,"624,84","624,86","617,81","621,08",47444384,"0,49%","-0,0007886","0,2500254415","0,2160181941","0,2375001785","0,2105463902","0,1852371112","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/11/2025 16:00:00,"617,54","618,12","606,08","608,4",71333634,"0,49%","-0,0206273","0,2627578769","0,2351607539","0,2487922837","0,2192348143","0,1922679173","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,14/11/2025 16:00:00,"599,55","613,35","597,17","608,86",80087291,"0,49%","0,0007558","0,259071413","0,2336903332","0,2482983083","0,2183936452","0,1917124842","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/11/2025 16:00:00,"606,3","612,48","599,87","603,66",63850367,"0,49%","-0,0085772","0,2547912842","0,2300307437","0,2487800133","0,2196140008","0,1899558902","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/11/2025 16:00:00,"599,62","602,31","591,34","596,31",83327279,"0,49%","-0,0122505","0,2382318353","0,2352850828","0,2517340436","0,2218517397","0,1924970007","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,19/11/2025 16:00:00,"597,07","606,16","594,59","599,87",73111487,"0,49%","0,0059523","0,2373182727","0,2339960959","0,249210335","0,2223220191","0,1927606641","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/11/2025 16:00:00,"611,62","614,03","584,75","585,67",117743195,"0,49%","-0,0239565","0,2520890837","0,2506993167","0,2621622815","0,2336478449","0,2021634075","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/11/2025 16:00:00,"587,47","596,98","580,74","590,07",103344155,"0,49%","0,0074847","0,2621195476","0,2479888931","0,233360907","0,2344707027","0,2024108252","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/11/2025 16:00:00,"595,28","606,68","595,16","605,16",60168149,"0,49%","0,0252517","0,2756740483","0,261458105","0,238582676","0,24645672","0,2092046138","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/11/2025 16:00:00,"603,51","610,26","597,32","608,89",57560867,"0,49%","0,0061447","0,2811174684","0,2604761578","0,2381376197","0,2469908917","0,2082368079","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/11/2025 16:00:00,"612,51","616,19","610,39","614,27",42393598,"0,49%","0,0087969","0,2887388137","0,2631519162","0,2388160473","0,2479600843","0,2084386947","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/11/2025 13:05:00,"616,11","619,32","615,42","619,25",23034394,"0,49%","0,0080745","0,2607377027","0,2587735646","0,2396378739","0,2487961431","0,2082355703","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,1/12/2025 16:00:00,"613,63","619,44","612,52","617,17",40957588,"0,49%","-0,0033646","0,2625680659","0,2578770456","0,239272039","0,2486562056","0,2085423894","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/12/2025 16:00:00,"619,46","623,75","617,59",622,54541834,"0,49%","0,0077956","0,255999058","0,2594848657","0,2368946473","0,2487395024","0,2089901171","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/12/2025 16:00:00,"619,62","624,22","618,03","623,52",47841627,"0,49%","0,0024407","0,2350512275","0,2440718202","0,2369634371","0,2481296201","0,2089735572","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/12/2025 16:00:00,"624,93","624,94","619,54","622,94",47067751,"0,49%","-0,0009306","0,2369520233","0,2425374489","0,2341080417","0,2459745668","0,2090287534","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/12/2025 16:00:00,"624,38","628,92","623,71","625,48",53614169,"0,49%","0,0040691","0,1475759657","0,2277544862","0,2328685371","0,2461547584","0,2088345835","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/12/2025 16:00:00,"627,21","628,84","621,69","624,28",43462406,"0,49%","-0,0019204","0,1559304309","0,2273684911","0,230308288","0,2197929175","0,2088055395","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/12/2025 16:00:00,"623,01","625,87",621,"625,05",37155999,"0,49%","0,0012327","0,08459136979","0,2074889033","0,2217777074","0,2112697775","0,2079614266","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/12/2025 16:00:00,"623,85","629,21","620,99","627,61",55031384,"0,49%","0,0040873","0,08261015799","0,2077360522","0,2205382101","0,2101351983","0,2080590458","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/12/2025 16:00:00,"623,82","625,78","617,72","625,58",58272844,"0,49%","-0,0032397","0,08050142513","0,2082875779","0,2200804328","0,2097613931","0,2081921121","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/12/2025 16:00:00,"622,08","623,54","611,36","613,62",75158726,"0,49%","-0,0193034","0,1412793176","0,2057864706","0,2237823929","0,2181265297","0,2130954782","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/12/2025 16:00:00,"618,37","618,42","609,32","610,54",49538197,"0,49%","-0,0050320","0,1428035875","0,2070901934","0,2233819018","0,2179576805","0,2129412519","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/12/2025 16:00:00,"608,26","613,51","606,91","611,75",55152819,"0,49%","0,0019799","0,1320627927","0,2034340671","0,2226851366","0,2147147564","0,2126940548","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/12/2025 16:00:00,"613,06","613,65","600,28","600,41",70654327,"0,49%","-0,0187109","0,1635000316","0,2129627936","0,2207942323","0,2220398238","0,2171496778","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/12/2025 16:00:00,"609,8","612,93","606,92","609,11",78875824,"0,49%","0,0143861","0,1970564362","0,2201567771","0,225840518","0,2245661019","0,2197980002","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,19/12/2025 16:00:00,"611,95","617,62","611,87","617,05",60369829,"0,49%","0,0129512","0,215080802","0,1956371242","0,2210314698","0,2265528647","0,2216431463","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/12/2025 16:00:00,"621,35","621,65","617,77","619,21",43703101,"0,49%","0,0034944","0,2169849414","0,1944661328","0,2209421164","0,2245169396","0,2215895702","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/12/2025 16:00:00,"618,2","622,41","617,78","622,11",41120445,"0,49%","0,0046725","0,2192846864","0,1657883544","0,2077532008","0,2183510346","0,2215953937","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/12/2025 13:05:00,"621,99","624,28","621,72","623,93",18468707,"0,49%","0,0029213","0,218412989","0,1645765739","0,207784988","0,2172126736","0,2216067489","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/12/2025 16:00:00,"624,66","625,52","623,14","623,89",28959778,"0,49%","-0,0000641","0,2176908621","0,1610553899","0,2077602005","0,216695878","0,2213683954","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/12/2025 16:00:00,"620,1","622,78","618,73","620,87",32458308,"0,49%","-0,0048524","0,1808384134","0,1592609979","0,1947850722","0,2121864211","0,2215837483","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/12/2025 16:00:00,"619,84","622,18","619,22","619,43",31226754,"0,49%","-0,0023220","0,1777816173","0,1588832909","0,1950649122","0,2117006254","0,2213878609","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,31/12/2025 16:00:00,"619,65","619,96","614,05","614,31",40746527,"0,49%","-0,0083000","0,1871309292","0,1589466949","0,1949035599","0,2124009936","0,2217053795","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/01/2026 16:00:00,"620,06","622,85","610,15","613,12",61859163,"0,49%","-0,0019390","0,1387914504","0,1584258228","0,1896046889","0,2034225131","0,2213492768","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/01/2026 16:00:00,"619,32","620,81","616,72","617,99",46828359,"0,49%","0,0079116","0,1197425016","0,162773374","0,1903799102","0,2039089903","0,2204265266","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/01/2026 16:00:00,"619,23","624,02","618,54","623,42",43137520,"0,49%","0,0087482","0,1051725527","0,1664270333","0,1694667173","0,1972778341","0,2214048842","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,7/01/2026 16:00:00,"623,04","627,94","622,56","624,02",44880339,"0,49%","0,0009620","0,103867841","0,1662984551","0,1683732481","0,1969595201","0,2025173883","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,8/01/2026 16:00:00,"623,03","623,42","617,8","620,47",50435941,"0,49%","-0,0057052","0,1069473526","0,1679270159","0,1475963077","0,1863780238","0,1967903966","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/01/2026 16:00:00,"621,41","627,89","619,06","626,65",49688734,"0,49%","0,0099109","0,1225837815","0,1726708695","0,1498693877","0,1886228988","0,1972968759","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/01/2026 16:00:00,"622,31","628,85","622,26","627,17",37388651,"0,49%","0,0008295","0,1225551017","0,1721129757","0,1471769983","0,1886065757","0,1966730386","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/01/2026 16:00:00,"627,27","629,47","623,7","626,24",44481380,"0,49%","-0,0014840","0,1181731413","0,1487113149","0,1449018684","0,1773069993","0,1964424081","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,14/01/2026 16:00:00,"622,24","623,45","614,56","619,55",72598700,"0,49%","-0,0107403","0,136839626","0,1550372976","0,1495077915","0,1806559447","0,1978889646","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,15/01/2026 16:00:00,"626,6",630,"620,75","621,78",53934892,"0,49%","0,0035929","0,1259461235","0,1554392342","0,1475003109","0,1787038907","0,1957259661","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/01/2026 16:00:00,"625,5","626,08","618,88","621,26",61058094,"0,49%","-0,0008367","0,1250013472","0,1287785323","0,1472572358","0,1742086423","0,195740889","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/01/2026 16:00:00,"610,53","615,05","607,05","608,06",81988898,"0,49%","-0,0214761","0,1772943562","0,1502827527","0,1650428803","0,1862356477","0,2015259607","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,21/01/2026 16:00:00,"609,47","620,42","607,86","616,28",79837881,"0,49%","0,0134278","0,1901789882","0,1510887758","0,1716194567","0,174458429","0,2031934629","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,22/01/2026 16:00:00,"622,35","622,46","617,78","620,76",42254757,"0,49%","0,0072431","0,1966851272","0,1536117632","0,173625564","0,1743794515","0,2022856242","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/01/2026 16:00:00,"619,73","625,4","618,65","622,72",43645825,"0,49%","0,0031524","0,1944895032","0,1528828522","0,1739521636","0,1579352196","0,1976087595","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/01/2026 16:00:00,"623,21","627,61","622,12","625,46",35983008,"0,49%","0,0043904","0,1861793879","0,153540497","0,1740477148","0,1574589501","0,1969734239","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,27/01/2026 16:00:00,"628,91","632,04","627,34","631,13",38997212,"0,49%","0,0090245","0,1944009834","0,158167733","0,1765155819","0,1575703068","0,1979556708","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,28/01/2026 16:00:00,"635,46","636,6","631,81","633,22",50691691,"0,49%","0,0033060","0,1944430745","0,1566203171","0,1619364472","0,1561269127","0,1943650899","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,29/01/2026 16:00:00,"632,65","633,67","618,27","629,43",79944047,"0,49%","-0,0060033","0,1845930267","0,1588865914","0,1624301007","0,1569486361","0,1946042464","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,30/01/2026 16:00:00,"625,71","628,26","619,3","621,87",65650714,"0,49%","-0,0120836","0,2012156855","0,1637961219","0,1686669475","0,1597534612","0,196483691","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/02/2026 16:00:00,"618,7","628,49","618,66","626,14",49020292,"0,49%","0,0068429","0,20520771","0,1654571182","0,1549377541","0,1609333719","0,190548268","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/02/2026 16:00:00,"628,3","629,98","610,96","616,52",81233969,"0,49%","-0,0154832","0,1805586894","0,1766285122","0,1584156431","0,1676725322","0,1937311691","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/02/2026 16:00:00,"615,02","615,1","600,47","605,75",81850748,"0,49%","-0,0176234","0,1935319798","0,1868295227","0,1637421583","0,1750731393","0,1930504295","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/02/2026 16:00:00,"600,21","604,81","594,76","597,03",89354492,"0,49%","-0,0145000","0,1972233147","0,1945322825","0,1699680598","0,1798836001","0,1961412234","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/02/2026 16:00:00,"600,19","611,41","598,77","609,65",78019338,"0,49%","0,0209177","0,2461209319","0,2172638823","0,1857631232","0,1917272963","0,1954775809","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/02/2026 16:00:00,"607,54","616,46","605,07","614,32",56797557,"0,49%","0,0076309","0,250340445","0,2152979893","0,1876275254","0,1928378045","0,196376099","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/02/2026 16:00:00,"615,3","617,02","611,01","611,47",53938859,"0,49%","-0,0046501","0,23977636","0,21567887","0,1881691723","0,193069853","0,1966789647","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/02/2026 16:00:00,"616,38","617,52","607,69","613,11",58575101,"0,49%","0,0026785","0,2391185884","0,2163306915","0,1878958667","0,1843295342","0,1900360187","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/02/2026 16:00:00,"614,71","615,81","599,57","600,64",81378903,"0,49%","-0,0205486","0,2611032131","0,2284794547","0,2005485867","0,1939840448","0,1967471294","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/02/2026 16:00:00,"600,43","606,48","596,42","601,92",69237547,"0,49%","0,0021288","0,2588726484","0,2279313112","0,1990819698","0,1940017249","0,1957052113","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,17/02/2026 16:00:00,"598,38","603,95","593,34","601,3",69013763,"0,49%","-0,0010306","0,2506498177","0,2279199635","0,1990348256","0,1855557087","0,1933193645","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,18/02/2026 16:00:00,"602,11","609,77","600,72","605,79",64250668,"0,49%","0,0074394","0,2464606835","0,2125117236","0,198785874","0,1816741006","0,1936305661","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,19/02/2026 16:00:00,"602,81","605,82","600,75","603,47",60960839,"0,49%","-0,0038371","0,2234648673","0,2038870211","0,1961144987","0,1773825803","0,1842577591","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,20/02/2026 16:00:00,"600,12","610,35","599,23","608,81",74127323,"0,49%","0,0088099","0,2075255026","0,2052168488","0,1990338002","0,1792356875","0,1845972595","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,23/02/2026 16:00:00,"606,61","608,01","599,05","601,41",63162819,"0,49%","-0,0122293","0,1794002014","0,2097485578","0,2023220065","0,1819890042","0,1765032514","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,24/02/2026 16:00:00,"602,4","608,99","599,73","607,87",54389752,"0,49%","0,0106841","0,1864174952","0,2149418793","0,2028660099","0,1849791746","0,1778473875","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,25/02/2026 16:00:00,"611,07","616,83",611,"616,68",52558188,"0,49%","0,0143892","0,205988885","0,2210867534","0,209811762","0,1904797079","0,1800848553","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,26/02/2026 16:00:00,"615,59","615,59","603,98","609,24",93807568,"0,49%","-0,0121380","0,2196471243","0,2249075291","0,2136566898","0,1933622813","0,181419024","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,27/02/2026 16:00:00,"602,98","608,32","602,19","607,29",67203083,"0,49%","-0,0032058","0,1766584279","0,2242508626","0,2108953422","0,1934597971","0,181402706","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,2/03/2026 16:00:00,"598,86","609,92","597,99","608,09",74678748,"0,49%","0,0013165","0,1765348974","0,2196953939","0,2104657441","0,1920041767","0,1803214253","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,3/03/2026 16:00:00,"596,33","603,96","591,87","601,58",95546863,"0,49%","-0,0107634","0,1903701348","0,2203098187","0,2133503046","0,1945621027","0,1819782997","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,4/03/2026 16:00:00,"604,16","612,88","603,43","610,75",69826160,"0,49%","0,0151282","0,20738631","0,2231157903","0,207413495","0,1986516948","0,1860607936","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,5/03/2026 16:00:00,"607,4","612,76","602,26","608,91",88215465,"0,49%","-0,0030172","0,2066984205","0,2098761008","0,2020222929","0,1968100124","0,1858452222","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,6/03/2026 16:00:00,"600,31",606,"598,33","599,75",85642847,"0,49%","-0,0151576","0,2197935127","0,2107813572","0,2064164454","0,2015870213","0,1893294029","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,9/03/2026 16:00:00,"594,23","609,27","591,33","607,76",91533927,"0,49%","0,0132672","0,2232635786","0,1985326751","0,2120079351","0,2055432265","0,1923790375","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,10/03/2026 16:00:00,"607,78","613,29","605,42","607,77",63487901,"0,49%","0,0000165","0,2136924571","0,1954365984","0,2112048519","0,2030024318","0,1920444932","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,11/03/2026 16:00:00,"608,95","612,43","605,03","607,69","6,01148E+17","0,49%","-0,0001316","0,1907712205","0,1945606349","0,2081515659","0,2029525456","0,1919266912","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,12/03/2026 16:00:00,"602,76","604,14","597,05","597,26","7,18366E+16","0,49%","-0,0173124","0,2045699845","0,2070066548","0,2147759049","0,2090020301","0,1907782757","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,13/03/2026 16:00:00,"599,73","603,6","592,57","593,72","6,31455E+17","0,49%","-0,0059447","0,2058972408","0,1896023238","0,2147620872","0,2074462473","0,1909270939","0,2679211459"
+NASDAQ,QQQ,NASDAQ:QQQ,16/03/2026 16:00:00,"600,04","603,86","599,11","600,38","4,90772E+17","0,49%","0,0111550","0,2208634798","0,1958955991","0,2162486007","0,210273659","0,1929841414","0,2679211459"
+,,,,,,,,,,,,,,,,
+MERCADO,TICKER,STOCK,Date,Open,High,Low,Close,Volume,var%_today,ln,VH(10),VH(20),VH(30),VH(40),VH(60),VH-YTD
+NASDAQ,TSLA,NASDAQ:TSLA,17/03/2025 16:00:00,"245,06","245,4","232,8","238,01",111900565,"0,94%","0,0000000",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/03/2025 16:00:00,"228,16","230,1","222,28","225,31",111477636,"0,94%","-0,0548355",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,19/03/2025 16:00:00,"231,61","241,41","229,2","235,86",111993753,"0,94%","0,0457612",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/03/2025 16:00:00,"233,35",238,"230,05","236,26",99028270,"0,94%","0,0016945",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/03/2025 16:00:00,"234,99","249,52","234,55","248,71",132728684,"0,94%","0,0513547",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/03/2025 16:00:00,"258,08","278,64","256,33","278,39",169079865,"0,94%","0,1127354",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/03/2025 16:00:00,"283,6","288,2","271,28","288,14",150361538,"0,94%","0,0344235",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/03/2025 16:00:00,"282,66","284,9","266,51","272,06",156254441,"0,94%","-0,0574238",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,27/03/2025 16:00:00,"272,48","291,85","271,82","273,13",162572146,"0,94%","0,0039252",,,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/03/2025 16:00:00,"275,58","276,1","260,57","263,55",123809389,"0,94%","-0,0357048","1,010623125",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,31/03/2025 16:00:00,"249,31","260,56","243,36","259,16",134008936,"0,94%","-0,0167975","1,022519138",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,1/04/2025 16:00:00,"263,8","277,45","259,25","268,46",146486911,"0,94%","0,0352563","0,9374866237",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/04/2025 16:00:00,"254,6","284,99","251,27","282,76",212787817,"0,94%","0,0518966","0,9456786185",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/04/2025 16:00:00,"265,29","276,3","261,51","267,28",136174291,"0,94%","-0,0563017","1,046145757",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/04/2025 16:00:00,"255,38",261,236,"239,43",181229353,"0,94%","-0,1100357","1,238692946",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,7/04/2025 16:00:00,"223,78",252,"214,25","233,29",183453776,"0,94%","-0,0259788","0,9620181698",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/04/2025 16:00:00,245,"250,44","217,8","221,86",171603472,"0,94%","-0,0502358","0,9106797721",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/04/2025 16:00:00,"224,69","274,69","223,88","272,2",219433373,"0,94%","0,2044905","1,633587166",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/04/2025 16:00:00,260,"262,49","239,33","252,4",181722604,"0,94%","-0,0755220","1,69529552",,,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/04/2025 16:00:00,"251,84","257,74","241,36","252,31",128948085,"0,94%","-0,0003566","1,685198574","1,359909379",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,14/04/2025 16:00:00,"258,36","261,8","245,93","252,35",100135241,"0,94%","0,0001585","1,683235153","1,359903015",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/04/2025 16:00:00,"249,91","258,75","247,54","254,11",79594318,"0,94%","0,0069502","1,665972876","1,334874025",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/04/2025 16:00:00,"247,61","251,97","233,89","241,55",112378737,"0,94%","-0,0506908","1,637698574","1,343270385",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/04/2025 16:00:00,"243,47","244,34","237,68","241,37",83404775,"0,94%","-0,0007455","1,616164739","1,34329329",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/04/2025 16:00:00,"230,26","232,21","222,79","227,5",97768007,"0,94%","-0,0591808","1,514780292","1,346797378",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/04/2025 16:00:00,"230,96","242,79","229,85","237,97",120858452,"0,94%","0,0449944","1,535671653","1,261980689",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/04/2025 16:00:00,"254,86","259,45","244,43","250,74",150381903,"0,94%","0,0522719","1,519086135","1,275693642",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/04/2025 16:00:00,"250,5","259,54","249,2","259,51",94464195,"0,94%","0,0343787","0,8432996825","1,266166005",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/04/2025 16:00:00,"261,69","286,85","259,63","284,95",167560688,"0,94%","0,0935185","0,8854959329","1,330905099",,,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/04/2025 16:00:00,"288,98","294,86","272,42","285,88",151731771,"0,94%","0,0032584","0,8836960706","1,319997303","1,209004036",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/04/2025 16:00:00,"285,5","293,32","279,47","292,03",108906553,"0,94%","0,0212844","0,8809517181","1,318458417","1,209929618",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/04/2025 16:00:00,"279,9","284,45","270,78","282,16",128961057,"0,94%","-0,0343823","0,9295648786","1,322300993","1,198864734",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,1/05/2025 16:00:00,"280,01","290,87","279,81","280,52",99658974,"0,94%","-0,0058293","0,8455748745","1,303730279","1,191625318",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/05/2025 16:00:00,"284,9","294,78","279,81","287,21",114454683,"0,94%","0,0235686","0,8400044901","1,282412391","1,193123076",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/05/2025 16:00:00,"284,57","284,85","274,4","280,26",94618882,"0,94%","-0,0244959","0,7308246096","1,185185419","1,186556466",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/05/2025 16:00:00,"273,11","277,73","271,35","275,35",76715792,"0,94%","-0,0176747","0,7448220495","1,181153068","1,121525766",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,7/05/2025 16:00:00,"276,88","277,92",271,"276,22",71882408,"0,94%","0,0031546","0,7019206317","1,151995689","1,114599782",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/05/2025 16:00:00,"279,63","289,8","279,41","284,82",97539448,"0,94%","0,0306598","0,6969551797","0,7655039007","1,1011487",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/05/2025 16:00:00,"290,21","307,04",290,"298,26",132387835,"0,94%","0,0461082","0,4939133844","0,7017615287","1,112080719",,,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/05/2025 16:00:00,"321,99","322,21","311,5","318,38",112826661,"0,94%","0,0652800","0,6146384807","0,7410418407","1,123644785","1,084251715",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/05/2025 16:00:00,320,"337,59","316,8","334,07",136992574,"0,94%","0,0481049","0,6533877901","0,7549610135","1,129642362","1,090948533",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,14/05/2025 16:00:00,"342,5",350,337,"347,68",136997264,"0,94%","0,0399320","0,5832455216","0,7621359223","1,131154856","1,07694663",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/05/2025 16:00:00,"340,34","346,14","334,72","342,82",97882596,"0,94%","-0,0140770","0,6004388587","0,7155110992","1,122762576","1,073955045",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/05/2025 16:00:00,"346,24","351,62","342,33","349,98",95895665,"0,94%","0,0206705","0,6000064053","0,71085038","1,100523235","1,074218954",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,19/05/2025 16:00:00,"336,3",343,"333,37","342,09",88869853,"0,94%","-0,0228021","0,5950054919","0,6486737001","1,020969532","1,070737633",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/05/2025 16:00:00,"347,87","354,99","341,63","343,82",131715548,"0,94%","0,0050444","0,5509664049","0,6419877819","1,012182148","1,020354244",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/05/2025 16:00:00,"344,43","347,35","332,2","334,62",102354844,"0,94%","-0,0271227","0,6195278796","0,6510449427","0,9971273623","1,020838303",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/05/2025 16:00:00,"344,43","347,35","332,2","334,62",5462213,"0,94%","0,0000000","0,6241607456","0,6473624687","0,7217492584","1,00322456",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/05/2025 16:00:00,"337,92","343,18","333,21","339,34",84654818,"0,94%","0,0140070","0,5908393594","0,536277022","0,6578242307","1,003569273",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,27/05/2025 16:00:00,"347,35","363,79","347,32","362,89",120146414,"0,94%","0,0670972","0,5974374443","0,5903707192","0,6860999118","1,012146365",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/05/2025 16:00:00,"364,84",365,"355,91","356,9",91404309,"0,94%","-0,0166441","0,5709971493","0,6009613456","0,6922608757","1,012111314",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/05/2025 16:00:00,"365,29","367,71",356,"358,43",88545666,"0,94%","0,0042778","0,5254267782","0,567858158","0,6925473023","1,008623693",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/05/2025 16:00:00,"355,52","363,68","345,29","346,46",123474938,"0,94%","-0,0339660","0,5640331625","0,5967789767","0,6759120199","1,006380225",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/06/2025 16:00:00,"343,5","348,02","333,33","342,69",81873829,"0,94%","-0,0109411","0,5516480192","0,6005215967","0,6792634444","0,9896770748",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/06/2025 16:00:00,"346,6","355,4","343,04","344,27",99324544,"0,94%","0,0046000","0,5345284325","0,5820829317","0,6301741379","0,9219191313",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/06/2025 16:00:00,"345,1","345,6","327,33","332,05",98912075,"0,94%","-0,0361407","0,5769776538","0,6040536615","0,6430550784","0,9260375395",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/06/2025 16:00:00,"322,49","324,55","273,21","284,7",292818655,"0,94%","-0,1538496","1,077993915","0,9231437574","0,8466607368","1,034434493",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/06/2025 16:00:00,"298,83","305,5","291,14","295,14",164747685,"0,94%","0,0360138","1,120983823","0,9266679715","0,8474123537","0,8389607245",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/06/2025 16:00:00,"285,96","309,83","281,85","308,58",140908876,"0,94%","0,0445313","1,164635465","0,9252422644","0,7982936695","0,8130909925",,"0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/06/2025 16:00:00,"314,94","327,83","310,67","326,09",151256520,"0,94%","0,0551923","1,134717089","0,9128462166","0,8190701536","0,8268488871","1,023955999","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/06/2025 16:00:00,"334,4","335,5","322,5","326,43",122611360,"0,94%","0,0010421","1,135985241","0,8881948925","0,8168543575","0,8267906419","1,023926184","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/06/2025 16:00:00,"323,08","332,56","316,86","319,11",105127536,"0,94%","-0,0226797","1,134954112","0,8726917554","0,810984208","0,8314494016","1,015284881","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/06/2025 16:00:00,"313,97","332,99","313,3","325,31",128964279,"0,94%","0,0192427","1,13798772","0,8771086505","0,8118346654","0,8137119284","1,010925334","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/06/2025 16:00:00,"331,29","332,05","326,41","329,13",83925858,"0,94%","0,0116742","1,142439761","0,8733532456","0,8094557116","0,8134071213","1,011001194","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/06/2025 16:00:00,"326,09","327,26","314,74","316,35",88282669,"0,94%","-0,0396036","1,15996542","0,8835352931","0,8179476007","0,8003754794","1,01038421","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/06/2025 16:00:00,"317,31","329,32","315,45","322,05",95137686,"0,94%","0,0178576","1,153559478","0,8877160048","0,8154623879","0,7928761984","0,9736541185","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/06/2025 16:00:00,"327,95","332,36","317,78","322,16",108688008,"0,94%","0,0003415","0,5590975679","0,8812698251","0,8156111791","0,7808989956","0,9703486046","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/06/2025 16:00:00,"327,54","357,54","327,48","348,68",190716815,"0,94%","0,0791063","0,6804715106","0,9468939534","0,8514185298","0,807214152","0,9771520376","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/06/2025 16:00:00,"356,17","356,26","340,44","340,47",114736245,"0,94%","-0,0238276","0,6921883519","0,9515054161","0,8456481044","0,7668470054","0,9795834903","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/06/2025 16:00:00,"342,7",343,"320,4","327,55",119845050,"0,94%","-0,0386863","0,674852239","0,9151799263","0,8290558297","0,7778459225","0,9803522547","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/06/2025 16:00:00,"324,61","331,05","323,61","325,78",80440907,"0,94%","-0,0054184","0,6757492145","0,9137204032","0,8115731158","0,776281273","0,979287065","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,27/06/2025 16:00:00,"324,51","329,34","317,5","323,63",89067049,"0,94%","-0,0066214","0,6608846127","0,9128807994","0,7982746781","0,7683477626","0,9764115165","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/06/2025 16:00:00,"319,9","325,58","316,6","317,66",76695081,"0,94%","-0,0186193","0,6590271737","0,9058879863","0,7992683195","0,7707575754","0,9700863735","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,1/07/2025 16:00:00,"298,46","305,89","293,21","300,71",145085665,"0,94%","-0,0548353","0,7210818016","0,9310902215","0,8149089989","0,7874856168","0,9695483201","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/07/2025 16:00:00,"312,63","316,83","303,82","315,65",119483730,"0,94%","0,0484877","0,7646909319","0,9596119384","0,833107085","0,7960566472","0,9344626972","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/07/2025 13:05:00,"317,99","318,45","312,76","315,35",58042302,"0,94%","-0,0009509","0,7550386159","0,9489249109","0,8326696778","0,7935961655","0,9314289741","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,7/07/2025 16:00:00,"291,37","296,15","288,77","293,94",131177949,"0,94%","-0,0703075","0,8592208841","0,7364030514","0,8616152359","0,82423577","0,9400713064","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/07/2025 16:00:00,297,"304,05","294,35","297,81",103246742,"0,94%","0,0130800","0,6516405281","0,7221925863","0,8636463289","0,8201264366","0,7958798963","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/07/2025 16:00:00,"297,55","300,15","293,55","295,88",75586771,"0,94%","-0,0065017","0,6513589691","0,6947376189","0,8612582278","0,808428418","0,7724186421","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/07/2025 16:00:00,"300,05","310,48",300,"309,87",104365271,"0,94%","0,0461989","0,7194146887","0,6814245598","0,8422463877","0,7959220216","0,779797643","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/07/2025 16:00:00,"307,89","314,09","305,65","313,51",79236442,"0,94%","0,0116784","0,7269162808","0,6840120095","0,8432235044","0,7825206535","0,7800167292","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,14/07/2025 16:00:00,"317,73","322,6","312,67","316,9",78043430,"0,94%","0,0107550","0,7317831958","0,679509659","0,844356743","0,7729367596","0,7801737513","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/07/2025 16:00:00,"319,68","321,2","310,5","310,78",77556346,"0,94%","-0,0195010","0,7326092814","0,67820834","0,8394111133","0,7738821608","0,7704588051","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/07/2025 16:00:00,"312,8","323,5","312,62","321,67",97284786,"0,94%","0,0344409","0,6681374159","0,6940000302","0,8492986955","0,7788350909","0,7739414213","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/07/2025 16:00:00,"323,15","324,34","317,06","319,41",73922870,"0,94%","-0,0070506","0,6090313015","0,6729607862","0,8491124034","0,7763677884","0,7577982149","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/07/2025 16:00:00,"321,66","330,9","321,42","329,65",94254993,"0,94%","0,0315559","0,6354990737","0,6822359863","0,8481864283","0,7826332677","0,7541987535","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/07/2025 16:00:00,"334,4",338,"326,88","328,49",75768797,"0,94%","-0,0035251","0,402220504","0,6825256839","0,642728142","0,7785118731","0,7452635688","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/07/2025 16:00:00,"329,74","335,41","321,55","332,11",77370371,"0,94%","0,0109598","0,4020039161","0,588234506","0,6332703725","0,779276356","0,7416852232","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/07/2025 16:00:00,"330,9","336,2","328,67","332,56",92553756,"0,94%","0,0013541","0,3908590241","0,5804260833","0,6161079629","0,7780556322","0,7069765435","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/07/2025 16:00:00,310,"310,15","300,41","305,3",156966023,"0,94%","-0,0855254","0,6460289111","0,6666619335","0,6586661161","0,7904439913","0,7396063035","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/07/2025 16:00:00,"308,74","323,63","308,01","316,06",148227027,"0,94%","0,0346372","0,6790487468","0,6861439763","0,6710521736","0,7981032465","0,7425884428","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/07/2025 16:00:00,"318,45","330,49","315,69","325,59",112673755,"0,94%","0,0297069","0,6996458996","0,6983915816","0,674694068","0,8039599321","0,7403480948","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/07/2025 16:00:00,"325,55","326,25","318,25","321,2",87358861,"0,94%","-0,0135749","0,6929013829","0,6960948938","0,6730324986","0,7988106946","0,7411259018","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/07/2025 16:00:00,"322,18","324,45","311,62","319,04",83931942,"0,94%","-0,0067475","0,6618082782","0,6514702656","0,6719311891","0,798466485","0,7395029702","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,31/07/2025 16:00:00,"319,61","321,37","306,1","308,27",85270919,"0,94%","-0,0343405","0,6920711208","0,6361825096","0,6683704973","0,8041949875","0,7420588354","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,1/08/2025 16:00:00,"306,21","309,31","297,82","302,63",89121446,"0,94%","-0,0184651","0,6541065849","0,6404453106","0,6675737899","0,7990850164","0,7421883062","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/08/2025 16:00:00,"309,08","312,12",303,"309,26",78683905,"0,94%","0,0216714","0,6791918983","0,5686659019","0,6726713048","0,6494768122","0,7438355371","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/08/2025 16:00:00,"308,95","312,45","305,5","308,72",57961278,"0,94%","-0,0017476","0,6705829155","0,5669117544","0,6068343805","0,6409670019","0,7403658529","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/08/2025 16:00:00,"307,89","320,47","306,93","319,91",78523579,"0,94%","0,0356050","0,7187151183","0,5833669786","0,6177749817","0,6358563335","0,7368821034","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,7/08/2025 16:00:00,"319,79","322,4","316,16","322,27",66658672,"0,94%","0,0073500","0,4651093075","0,5520244803","0,6041571551","0,6136622849","0,7193449164","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/08/2025 16:00:00,"321,43","335,15","320,98","329,65",91200319,"0,94%","0,0226418","0,4394784177","0,5576893867","0,6092133956","0,617558954","0,711554333","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/08/2025 16:00:00,335,"346,64","334,15","339,03",105320174,"0,94%","0,0280571","0,435693497","0,5674167867","0,6161565228","0,618948431","0,708002633","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/08/2025 16:00:00,345,"345,26","332,94","340,84",80690111,"0,94%","0,0053246","0,4193515183","0,5580229798","0,6119377788","0,6166409766","0,7073041715","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/08/2025 16:00:00,"341,5","348,98","338,2","339,38",67838892,"0,94%","-0,0042927","0,4165938857","0,5425730986","0,5768843238","0,6159803842","0,7054472683","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,14/08/2025 16:00:00,"335,76","340,47","330,4","335,58",75000662,"0,94%","-0,0112600","0,3422513708","0,5443185022","0,5562082428","0,6044374882","0,7037635398","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/08/2025 16:00:00,"337,66","339,3","327,02","330,56",74319792,"0,94%","-0,0150722","0,3318712615","0,5327781795","0,5593364424","0,6042696867","0,7045634465","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/08/2025 16:00:00,"329,62","336,27","329,59","335,16",56956552,"0,94%","0,0138198","0,3228144388","0,535632364","0,4967406822","0,6055751073","0,7022815749","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,19/08/2025 16:00:00,"335,79","340,55","327,85","329,31",75956002,"0,94%","-0,0176085","0,3549455342","0,5393237898","0,5014823598","0,5573672538","0,7036273543","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/08/2025 16:00:00,"329,22","331,37","314,6","323,9",77481768,"0,94%","-0,0165647","0,3193500572","0,543604869","0,505185623","0,5550626845","0,7038309365","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/08/2025 16:00:00,"322,08","324,9","318,68","320,11",55744445,"0,94%","-0,0117701","0,3253484832","0,3951756707","0,4827879167","0,5439146268","0,6833628389","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/08/2025 16:00:00,"321,66","340,25","319,69","340,01",94016347,"0,94%","0,0603103","0,478409099","0,4472383203","0,5242413192","0,5738518575","0,6993947932","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/08/2025 16:00:00,"338,9","349,53","335,03","346,6",86670037,"0,94%","0,0191963","0,4623852278","0,4376261809","0,5266939271","0,5759096609","0,7010319333","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/08/2025 16:00:00,"344,93","351,9","343,72","351,67",76651550,"0,94%","0,0145219","0,46820124","0,433467754","0,5217578192","0,5736555263","0,6969263459","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,27/08/2025 16:00:00,"351,94","355,39","349,16","349,6",65519012,"0,94%","-0,0059036","0,4693364419","0,4330607185","0,5111183399","0,5462381504","0,696536614","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/08/2025 16:00:00,"350,91","353,55","340,26","345,98",67903224,"0,94%","-0,0104087","0,4683168788","0,4027567302","0,512064208","0,5298365983","0,6969513278","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/08/2025 16:00:00,"347,23","348,75","331,7","333,87",81145660,"0,94%","-0,0356293","0,5147483694","0,4284530174","0,5179430679","0,5420392345","0,6967880183","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/09/2025 16:00:00,"328,23","333,33","325,6","329,36",58391952,"0,94%","-0,0136003","0,5137007837","0,4284446337","0,5200977062","0,4969991571","0,5814125207","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/09/2025 16:00:00,"335,2","343,33","328,51","334,09",88733288,"0,94%","0,0142590","0,5098561675","0,4303831363","0,5210920588","0,4972391099","0,5760898067","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/09/2025 16:00:00,"336,15","338,89","331,48","338,53",60711033,"0,94%","0,0132023","0,4988197864","0,4088292579","0,5230579806","0,4973244442","0,5669122238","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/09/2025 16:00:00,348,"355,87","344,68","350,84",108989785,"0,94%","0,0357176","0,518439319","0,4321519994","0,4354379413","0,4898273309","0,5574671491","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/09/2025 16:00:00,"354,64","358,44","344,84","346,4",75208290,"0,94%","-0,0127361","0,4006428838","0,4296437866","0,4255969984","0,4913773729","0,5585290328","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/09/2025 16:00:00,"348,44","350,77","343,82","346,97",53815991,"0,94%","0,0016441","0,3835113693","0,413966056","0,4145931726","0,4907141495","0,55536516","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/09/2025 16:00:00,"350,55","356,33","346,07","347,79",72121679,"0,94%","0,0023605","0,3718330993","0,4135863625","0,4107083186","0,4860598838","0,5535668148","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/09/2025 16:00:00,"350,17","368,99","347,6","368,81",103756010,"0,94%","0,0586828","0,5151706852","0,4802113061","0,4530875381","0,5059329529","0,5709829464","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/09/2025 16:00:00,"370,94","396,69","370,24","395,94",168156391,"0,94%","0,0709811","0,6349489116","0,5525582883","0,4862038938","0,5442775869","0,5862004629","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/09/2025 16:00:00,"423,13","425,7","402,43","410,04",163823667,"0,94%","0,0349920","0,5512221663","0,553320473","0,484859213","0,5459212746","0,5902625633","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/09/2025 16:00:00,"414,5","423,25","411,43","421,62",104285721,"0,94%","0,0278497","0,5017373265","0,5580304926","0,4871844006","0,5493071963","0,5930929034","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/09/2025 16:00:00,"415,75","428,31","409,67","425,86",106133532,"0,94%","0,0100062","0,5059649218","0,542639845","0,485237923","0,5492380583","0,5630334431","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/09/2025 16:00:00,"428,87","432,22","416,56","416,85",90454509,"0,94%","-0,0213842","0,5750753092","0,5480233926","0,4891575307","0,5553824703","0,5623360933","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,19/09/2025 16:00:00,"421,82","429,47","421,72","426,07",93131034,"0,94%","0,0218772","0,5665417862","0,5380218552","0,4912271633","0,4800199489","0,5540920508","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/09/2025 16:00:00,"431,11","444,98","429,13","434,21",97108777,"0,94%","0,0189246","0,5243666244","0,4975546234","0,4901270425","0,4742738219","0,554680854","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/09/2025 16:00:00,"439,88","440,97","423,72","425,85",83422691,"0,94%","-0,0194411","0,5718533797","0,5142569638","0,4950828653","0,4763956545","0,5572076856","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/09/2025 16:00:00,"429,83","444,21","429,03","442,79",93133570,"0,94%","0,0390084","0,5675937991","0,5285628472","0,5069339976","0,4818888417","0,5604864314","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/09/2025 16:00:00,"435,24","435,35","419,08","423,39",96746426,"0,94%","-0,0448019","0,6505240875","0,5770895029","0,5387202609","0,5059190722","0,5543130153","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/09/2025 16:00:00,"428,3","440,47","421,02","440,4",101628160,"0,94%","0,0393897","0,5595450829","0,583142142","0,5455967705","0,4984005174","0,5504091164","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/09/2025 16:00:00,"444,35","450,98","439,5","443,21",79491510,"0,94%","0,0063603","0,5352227205","0,5434033401","0,5387436325","0,4912255878","0,5501701775","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/09/2025 16:00:00,"441,52",445,"433,12","444,72",74357960,"0,94%","0,0034012","0,5181497294","0,531437578","0,538984798","0,4901012411","0,5161828681","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,1/10/2025 16:00:00,"443,8","462,29","440,75","459,46",98122285,"0,94%","0,0326070","0,5437721177","0,5366908291","0,5357320552","0,4939688612","0,5198626698","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/10/2025 16:00:00,"470,54","470,75","435,57",436,137008950,"0,94%","-0,0524096","0,6354104089","0,6111328803","0,5723677266","0,5219306198","0,5393291353","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/10/2025 16:00:00,"443,29","446,77","416,58","429,83",133188180,"0,94%","-0,0142525","0,6328055662","0,6121838825","0,5736151129","0,5261441114","0,5323389397","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/10/2025 16:00:00,"440,75","453,55","436,69","453,25",85324878,"0,94%","0,0530541","0,7020791418","0,6292090884","0,5660858728","0,5422708949","0,5449638577","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,7/10/2025 16:00:00,"447,82","452,68","432,45","433,09",102296082,"0,94%","-0,0454983","0,7535631279","0,6766335261","0,5964217097","0,5619236552","0,5594874979","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/10/2025 16:00:00,"437,57","441,33","425,23","438,69",71192128,"0,94%","0,0128475","0,7166877282","0,6755180122","0,5961995275","0,5622832072","0,556330103","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/10/2025 16:00:00,"431,81","436,35","426,18","435,54",69339928,"0,94%","-0,0072064","0,656847408","0,645281257","0,5965817815","0,5628659584","0,5525105027","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/10/2025 16:00:00,"436,54","443,13","411,45","413,49",112107870,"0,94%","-0,0519533","0,6819929834","0,6294522496","0,6288530044","0,5875846286","0,5694354698","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/10/2025 16:00:00,"423,53","436,89","419,7","435,9",79552785,"0,94%","0,0527795","0,7690571897","0,6514724827","0,6309020684","0,6012443289","0,5780601793","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,14/10/2025 16:00:00,"426,79","434,2","417,86","429,24",72669438,"0,94%","-0,0153967","0,7724150471","0,6460302454","0,6317385472","0,6045726949","0,5798384737","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/10/2025 16:00:00,"434,9","440,51","426,33","435,15",71558185,"0,94%","0,0136746","0,7444428165","0,6472130613","0,6316786044","0,6004212203","0,5800653971","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/10/2025 16:00:00,"434,73","439,35","421,31","428,75",77189889,"0,94%","-0,0148168","0,6801074407","0,6434312821","0,6367661717","0,599802975","0,5819766537","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/10/2025 16:00:00,"425,5","441,46","423,6","439,31",89331578,"0,94%","0,0243313","0,6910337135","0,6450145865","0,63171862","0,5991369695","0,5386170076","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/10/2025 16:00:00,"443,87","449,8","440,61","447,43",63718971,"0,94%","0,0183148","0,6150047412","0,6447038324","0,6284784769","0,5778153632","0,5347511093","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/10/2025 16:00:00,"445,76","449,3","442,05","442,6",54412169,"0,94%","-0,0108537","0,5457275062","0,6403746677","0,6317057365","0,5789418443","0,5328842928","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/10/2025 16:00:00,"443,45","445,54",429,"438,97",84023458,"0,94%","-0,0082354","0,5438628448","0,619280408","0,6339974629","0,5799286496","0,5318873956","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/10/2025 16:00:00,420,"449,4","413,9","448,98",126709833,"0,94%","0,0225473","0,5572737146","0,5928567318","0,6095247678","0,5810399797","0,5327214111","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/10/2025 16:00:00,"446,83","451,68","430,17","433,72",94727774,"0,94%","-0,0345792","0,4940390321","0,589683857","0,5795722265","0,5920112278","0,532832708","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,27/10/2025 16:00:00,"439,98","460,16","438,69","452,42",105867547,"0,94%","0,0422118","0,4549774901","0,6172503398","0,5851029454","0,5878964009","0,5368174117","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/10/2025 16:00:00,"454,78",467,"451,6","460,55",80185667,"0,94%","0,0178105","0,4424522428","0,6213701228","0,5808289425","0,584946736","0,5362354882","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/10/2025 16:00:00,"462,5","465,7","452,65","461,51",67983544,"0,94%","0,0020823","0,4409434505","0,6057352475","0,5802736488","0,5849582061","0,5359481242","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/10/2025 16:00:00,"451,05","455,06","439,61","440,1",72447938,"0,94%","-0,0475017","0,5369331986","0,5978545889","0,6006973976","0,6082584057","0,5472982612","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,31/10/2025 16:00:00,"446,75",458,"443,69","456,56",83135787,"0,94%","0,0367182","0,5618882495","0,6132014045","0,6091093307","0,6087146455","0,5527397843","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/11/2025 16:00:00,"455,99","474,07","453,8","468,37",84595244,"0,94%","0,0255385","0,5710493525","0,5804606472","0,6118116524","0,6083249524","0,5533314813","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/11/2025 16:00:00,"454,46","460,22","443,6","444,26",87756644,"0,94%","-0,0528486","0,6655959031","0,5926490869","0,6374668791","0,6349574307","0,5690072651","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/11/2025 16:00:00,"452,05","466,33","440,71","462,07",85573015,"0,94%","0,0393064","0,7016519602","0,6130052933","0,6376888825","0,6426396207","0,5754463793","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/11/2025 16:00:00,"461,96","467,45","435,09","445,91",109622907,"0,94%","-0,0355993","0,7304588602","0,6333887235","0,6300554944","0,6348798296","0,5837192301","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,7/11/2025 16:00:00,"437,92","439,36","421,88","429,52",103471495,"0,94%","-0,0374488","0,7360432694","0,612709275","0,6292512624","0,613127602","0,5916276974","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/11/2025 16:00:00,"439,6","449,67","433,36","445,23",76515907,"0,94%","0,0359227","0,721923894","0,5896160457","0,6418283242","0,6136020482","0,5947584796","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/11/2025 16:00:00,"439,4","442,49","432,36","439,62",60533237,"0,94%","-0,0126803","0,7121080806","0,5882723379","0,6432531333","0,6098611784","0,5959075667","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/11/2025 16:00:00,"442,15","442,33","426,56","430,6",58513520,"0,94%","-0,0207311","0,716683237","0,5925965427","0,6356824921","0,6126958129","0,596674262","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/11/2025 16:00:00,"423,13","424,5","396,34","401,99",118948032,"0,94%","-0,0687524","0,7746261487","0,6586925953","0,6542268468","0,6442636498","0,6214262544","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,14/11/2025 16:00:00,"386,3","412,19","382,78","404,35",105506682,"0,94%","0,0058536","0,7212620823","0,6484949596","0,6535196327","0,6407688838","0,6202487567","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/11/2025 16:00:00,"398,74","423,96","398,74","408,92",102214259,"0,94%","0,0112387","0,6956838262","0,6444788723","0,6247984908","0,6389155119","0,6042379438","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/11/2025 16:00:00,"405,38","408,9","393,71","401,25",80688637,"0,94%","-0,0189349","0,6464673642","0,6469293425","0,6089573615","0,6387842842","0,6052627575","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,19/11/2025 16:00:00,"406,18","411,78","398,5","403,99",72047704,"0,94%","0,0068055","0,5709756766","0,6486301806","0,6073978107","0,6269755545","0,6046087501","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/11/2025 16:00:00,"414,63","428,94","394,74","395,23",113548827,"0,94%","-0,0219223","0,5552028658","0,6412438263","0,6109164184","0,6161737446","0,6072404281","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/11/2025 16:00:00,"402,32","402,8","383,76","391,09",100460633,"0,94%","-0,0105302","0,5284650992","0,6290379742","0,5859165293","0,6033209281","0,6072559152","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/11/2025 16:00:00,"402,17","421,72","401,09","417,78",96806374,"0,94%","0,0660173","0,6503075524","0,6703512137","0,6030227014","0,6378783693","0,61986645","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/11/2025 16:00:00,"414,42","420,48","405,95","419,4",71915624,"0,94%","0,0038701","0,6514738715","0,6642625965","0,6011421622","0,6379135082","0,6183393722","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/11/2025 16:00:00,"423,95","426,94","416,89","426,58",63462996,"0,94%","0,0169748","0,6536885097","0,6701951886","0,6022496462","0,6318178278","0,6186535631","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/11/2025 13:05:00,"426,59","432,93","426,2","430,17",36252861,"0,94%","0,0083806","0,4692496033","0,6423498983","0,600821829","0,6126921815","0,6183276074","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,1/12/2025 16:00:00,"425,32","433,66","425,29","430,14",57463552,"0,94%","-0,0000697","0,471082447","0,6195164735","0,5944355588","0,6111733963","0,6132476407","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/12/2025 16:00:00,"430,81","436,8","422,12","429,24",69336626,"0,94%","-0,0020945","0,4721650651","0,6061829908","0,5904667981","0,5886747469","0,6120763477","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/12/2025 16:00:00,"432,1","447,92","431,11","446,74",87482964,"0,94%","0,0399606","0,4857220516","0,5930940819","0,6065912331","0,5853004883","0,6185902664","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/12/2025 16:00:00,"449,94","454,63","445,39","454,53",71906488,"0,94%","0,0172871","0,4864068341","0,5723558145","0,608595081","0,5863102447","0,6194088409","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/12/2025 16:00:00,"453,03","458,87","451,66",455,56427522,"0,94%","0,0010335","0,439385574","0,5505768722","0,6036865597","0,5857738602","0,60432545","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/12/2025 16:00:00,"447,45","449,75","435,25","439,58",69165753,"0,94%","-0,0344777","0,5116645819","0,5467228456","0,6036125549","0,5732067546","0,5872090305","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/12/2025 16:00:00,"437,54","452,39","435,7","445,17",62367442,"0,94%","0,0126365","0,3613517595","0,5269707875","0,5864276842","0,5520522433","0,5819431646","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/12/2025 16:00:00,"446,07","456,88","443,61","451,45",63257475,"0,94%","0,0140084","0,3637132974","0,5269742662","0,5850787748","0,5512601585","0,5790409924","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/12/2025 16:00:00,"448,95","449,27","440,33","446,89",55979492,"0,94%","-0,0101521","0,3714834265","0,520363706","0,5859113778","0,5509373208","0,5792658634","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/12/2025 16:00:00,"448,09","463,01","441,67","458,96",95656749,"0,94%","0,0266506","0,394600897","0,4219819514","0,5687951135","0,554261325","0,5799987523","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/12/2025 16:00:00,"469,44","481,77","467,66","475,31",114542204,"0,94%","0,0350042","0,4265947684","0,4389884188","0,5674854685","0,5592546299","0,5837290145","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/12/2025 16:00:00,"472,21","491,5","465,83","489,88",107608075,"0,94%","0,0301932","0,4340479272","0,4489596664","0,570209237","0,5636378035","0,5864268653","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/12/2025 16:00:00,"488,22","495,28","466,2","467,26",106490405,"0,94%","-0,0472746","0,5262251957","0,496662553","0,5638185419","0,5820101107","0,5966546585","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/12/2025 16:00:00,"478,16","490,86","473,12","483,37",95168446,"0,94%","0,0338966","0,5515627762","0,5091416144","0,5595746889","0,589381016","0,5947994068","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,19/12/2025 16:00:00,"488,12","490,49","474,72","481,2",103305424,"0,94%","-0,0044994","0,5546493479","0,4940505449","0,5439175119","0,5863871183","0,5836076302","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/12/2025 16:00:00,"489,88","498,83","485,33","488,73",86916066,"0,94%","0,0155272","0,4861649912","0,4858838018","0,5259910186","0,5768042201","0,577115181","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/12/2025 16:00:00,"489,4","491,97","482,84","485,56",58223633,"0,94%","-0,0065073","0,4965575767","0,4232858349","0,5145874136","0,5644380007","0,5773498629","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/12/2025 13:05:00,"488,48","490,9","476,8","485,4",41285429,"0,94%","-0,0003296","0,4978771602","0,4243598648","0,5116788337","0,5622682356","0,5773480278","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/12/2025 16:00:00,"485,23","489,09","473,82","475,19",58780659,"0,94%","-0,0212586","0,5177466737","0,4388141955","0,5119938468","0,566375388","0,5746495628","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/12/2025 16:00:00,469,"469,4",459,"459,64",66263033,"0,94%","-0,0332711","0,5472039509","0,4684469753","0,4616437271","0,5565802136","0,5656031868","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/12/2025 16:00:00,"461,09","463,12","453,83","454,43",59238464,"0,94%","-0,0113997","0,4968243656","0,4725017273","0,4649027163","0,5466408435","0,5651746113","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,31/12/2025 16:00:00,"456,1","456,55","449,3","449,72",49077961,"0,94%","-0,0104187","0,439064853","0,4754690226","0,4667291444","0,5416150764","0,5504486819","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/01/2026 16:00:00,"457,8","458,34","435,3","438,07",85535406,"0,94%","-0,0262465","0,3779871425","0,4586348413","0,4717573083","0,5234452493","0,5426248722","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/01/2026 16:00:00,"447,99","457,55","444,57","451,67",67940839,"0,94%","0,0305731","0,3638695878","0,4721143496","0,4814028268","0,5178881651","0,5469268757","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/01/2026 16:00:00,"446,38","448,25","428,78","432,96",89093758,"0,94%","-0,0423065","0,4213908851","0,5049014074","0,499961037","0,5225098388","0,556744545","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,7/01/2026 16:00:00,"435,9","438,37","431,29","431,41",59828790,"0,94%","-0,0035864","0,3878856723","0,4841143399","0,498172516","0,5101082844","0,5414462168","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,8/01/2026 16:00:00,"427,89","436,89","424,37","435,8",57041094,"0,94%","0,0101245","0,4106124348","0,4828785828","0,4448627911","0,498988875","0,5260706185","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/01/2026 16:00:00,"435,95","449,05","430,39","445,01",67331456,"0,94%","0,0209133","0,450705108","0,4878938281","0,4499926969","0,5016481472","0,5271198002","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/01/2026 16:00:00,"441,23","454,3",438,"448,96",61649627,"0,94%","0,0088370","0,453330014","0,4875842713","0,447466897","0,4979821978","0,5265122532","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/01/2026 16:00:00,"450,2","451,81","443,95","447,2",53719214,"0,94%","-0,0039279","0,4138385303","0,4730367844","0,4472151266","0,4490456836","0,5252333406","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,14/01/2026 16:00:00,"442,81","443,91","434,22","439,2",57259500,"0,94%","-0,0180510","0,4213632099","0,4484813487","0,4522748441","0,4532431712","0,523838159","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,15/01/2026 16:00:00,"441,13","445,36","437,65","438,57",49465813,"0,94%","-0,0014355","0,4187897043","0,4217824936","0,4522295245","0,4524591514","0,5218264064","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/01/2026 16:00:00,"439,5","447,25","435,26","437,5",60220551,"0,94%","-0,0024427","0,3876059628","0,3777301084","0,4295336175","0,4481247623","0,5211893438","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/01/2026 16:00:00,"429,36","430,73","417,44","419,25",63187336,"0,94%","-0,0426093","0,4043119953","0,3744210543","0,4483672502","0,4677635559","0,5312688493","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,21/01/2026 16:00:00,"421,66","438,2","419,62","431,44",68123987,"0,94%","0,0286611","0,382942133","0,4044656903","0,4614233809","0,4695920012","0,5331393005","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,22/01/2026 16:00:00,"435,16","449,5","432,63","449,36",71546729,"0,94%","0,0406959","0,4545326347","0,4420925067","0,4688046119","0,4819372424","0,535836093","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/01/2026 16:00:00,"447,43","452,43","444,04","449,06",56771364,"0,94%","-0,0006678","0,4533839229","0,4422106666","0,4668457794","0,4413300127","0,5255697153","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/01/2026 16:00:00,445,"445,04","434,28","435,2",49397415,"0,94%","-0,0313508","0,4788617417","0,4569993031","0,4767742887","0,452471477","0,5291661648","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,27/01/2026 16:00:00,"437,41","437,52","430,69","430,9",37733077,"0,94%","-0,0099297","0,4746774763","0,4520103053","0,4767224656","0,4508355586","0,5295704485","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,28/01/2026 16:00:00,"431,91","438,26","430,1","431,46",54857403,"0,94%","0,0012988","0,4758058663","0,4340851045","0,4661559974","0,4501475636","0,5166635155","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,29/01/2026 16:00:00,"437,8","440,23","414,62","416,56",81686127,"0,94%","-0,0351443","0,5070649716","0,4541290765","0,4601345392","0,4625511436","0,5151846333","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,30/01/2026 16:00:00,"425,35","439,88","422,7","430,41",82626066,"0,94%","0,0327077","0,5570875397","0,4797100049","0,4625907434","0,4734593467","0,5178115633","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/02/2026 16:00:00,"421,29","427,15","414,5","421,81",58739455,"0,94%","-0,0201833","0,5680198052","0,4745414273","0,4400257644","0,4607186498","0,5038151372","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/02/2026 16:00:00,"424,27","428,56","413,69","421,96",56886549,"0,94%","0,0003555","0,5042439466","0,45184391","0,4192982999","0,4571038555","0,49365931","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/02/2026 16:00:00,"420,46","423,9","399,18","406,01",74606873,"0,94%","-0,0385327","0,5161044945","0,4458497704","0,4357498255","0,4701988325","0,4949636623","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/02/2026 16:00:00,"397,02","402,1","387,53","397,21",72819838,"0,94%","-0,0219127","0,4146360885","0,4529613438","0,4323901485","0,4637764155","0,4894476674","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/02/2026 16:00:00,"400,87","414,55","397,75","411,11",62677144,"0,94%","0,0343957","0,4999826429","0,4787664283","0,4557772878","0,4749606495","0,4887431668","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/02/2026 16:00:00,"409,91","421,25","407,29","417,32",54484258,"0,94%","0,0149925","0,4936774047","0,4737470115","0,4610878354","0,4752800753","0,489532174","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/02/2026 16:00:00,"418,08","427,25",417,"425,21",64450233,"0,94%","0,0187299","0,510261735","0,4804186995","0,4644663717","0,4786199271","0,489301797","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/02/2026 16:00:00,"427,96","436,35","420,03","428,27",57361989,"0,94%","0,0071707","0,5127155299","0,4822178026","0,4533526065","0,4715600891","0,4583607778","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/02/2026 16:00:00,"430,3","436,23",414,"417,07",61933359,"0,94%","-0,0264998","0,4914092729","0,4888703752","0,4601523298","0,4632458511","0,4631862989","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/02/2026 16:00:00,"414,31","424,06","410,88","417,44",51434147,"0,94%","0,0008867","0,4408378948","0,4890758908","0,4595041135","0,4517505883","0,4624068371","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,17/02/2026 16:00:00,"412,36","413,72","400,51","410,63",59678789,"0,94%","-0,0164483","0,4354993089","0,4927077758","0,4543687067","0,4333362648","0,4618057644","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,18/02/2026 16:00:00,"411,11","416,9","409,58","411,32",45921402,"0,94%","0,0016789","0,435947339","0,4598326647","0,4390937648","0,4181660602","0,4615378659","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,19/02/2026 16:00:00,"407,25","415,25","404,11","411,71",51019638,"0,94%","0,0009477","0,3629431433","0,4403730025","0,4158110354","0,4184331254","0,4581603603","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,20/02/2026 16:00:00,"408,3","414,7","405,5","411,82",57912225,"0,94%","0,0002671","0,328259078","0,3961170067","0,4158056309","0,4143215459","0,4572990265","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,23/02/2026 16:00:00,"407,29","407,7","394,04","399,83",69118036,"0,94%","-0,0295469","0,3119812673","0,4099151051","0,4247174742","0,4212675884","0,4331711483","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,24/02/2026 16:00:00,"399,5","410,82","397,64","409,38",57626011,"0,94%","0,0236044","0,335343422","0,4113516185","0,4267132718","0,4297924615","0,4371841912","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,25/02/2026 16:00:00,"412,15","420,34","412,15","417,4",53766486,"0,94%","0,0194012","0,3370402553","0,4209119586","0,4318932215","0,4322831858","0,4378213498","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,26/02/2026 16:00:00,"414,42","416,81","403,66","408,58",53208786,"0,94%","-0,0213573","0,3498847578","0,428973881","0,4369040265","0,4259897858","0,4402843215","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,27/02/2026 16:00:00,"402,94","407,12","398,11","402,51",56512409,"0,94%","-0,0149678","0,3269383136","0,4078185678","0,4356988214","0,4267882535","0,4416504851","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,2/03/2026 16:00:00,"390,6","404,54","388,25","403,32",54451656,"0,94%","0,0020104","0,3276269262","0,3780394314","0,4360110522","0,4264265696","0,4417097178","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,3/03/2026 16:00:00,"395,09","396,34","385,39","392,43",62111287,"0,94%","-0,0273721","0,3510270026","0,3854009257","0,4443502211","0,4270208849","0,4342020998","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,4/03/2026 16:00:00,"397,85","408,33","394,58","405,94",67195416,"0,94%","0,0338472","0,4209505577","0,4172616844","0,4399290073","0,429519334","0,4406636141","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,5/03/2026 16:00:00,"401,57","408,62","399,42","405,55",51515619,"0,94%","-0,0009612","0,4206920258","0,3834573501","0,4266616021","0,4115941761","0,4406093659","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,6/03/2026 16:00:00,"398,09","402,35","394,21","396,73",63542719,"0,94%","-0,0219882","0,4380145643","0,3835401894","0,4029605138","0,41613925","0,4359518218","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,9/03/2026 16:00:00,"390,05","401,59","381,4","398,68",66460628,"0,94%","0,0049031","0,4037870305","0,3520420853","0,4040339329","0,4150016716","0,4347932047","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,10/03/2026 16:00:00,"402,22","406,59","398,19","399,24",59007038,"0,94%","0,0014036","0,3714971755","0,3444918025","0,3920687983","0,4089617449","0,4330591735","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,11/03/2026 16:00:00,"402,28","416,38","402,15","407,82","6,25599E+17","0,94%","0,0212632","0,3760925507","0,3476065184","0,4000206509","0,4139386524","0,4363417214","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,12/03/2026 16:00:00,"405,18","406,5","394,65","395,01","6,09738E+16","0,94%","-0,0319148","0,4022618733","0,3671604231","0,4133013987","0,4234282879","0,4368556458","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,13/03/2026 16:00:00,"399,17","400,2","389,95","391,2","5,85041E+17","0,94%","-0,0096921","0,3973297434","0,3542032577","0,3975777669","0,421414525","0,4269130876","0,6809633204"
+NASDAQ,TSLA,NASDAQ:TSLA,16/03/2026 16:00:00,"396,22","403,73","394,42","395,56","5,80683E+17","0,94%","0,0110835","0,4055276731","0,3591089604","0,380543954","0,4235114646","0,4202022182","0,6809633204"
