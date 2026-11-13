@@ -1,12 +1,84 @@
-<!DOCTYPE html><html lang="es"><head><script nonce="1xPvGcOYoGrDjFQxH8pEzQ">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!="undefined"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length=="number")return{next:k(a)};throw Error(String(a)+" is not an iterable or ArrayLike");}function m(a,b){var c;b&&!b.done&&(c=a["return"])&&c.call(a)}
-var n=typeof Object.defineProperties=="function"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};function p(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var q=p(this);
-function r(a,b){if(b)a:{var c=q;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&n(c,a,{configurable:!0,writable:!0,value:b})}}r("Object.is",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});
-r("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});
-r("String.prototype.includes",function(a){return a?a:function(b,c){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(b,c||0)!==-1}});function t(a,b,c){a("https://csp.withgoogle.com/csp/proto/"+encodeURIComponent(b),JSON.stringify(c))}function u(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:v}function v(a,b){var c=new XMLHttpRequest;c.open("POST",a);c.send(b)}
-function w(){var a=(x=Object.prototype)==null?void 0:x.__lookupGetter__("__proto__"),b=y,c=z;return function(){var d=a.call(this),e,f,g,h;t(c,b,{type:"ACCESS_GET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}
-function A(){var a=(B=Object.prototype)==null?void 0:B.__lookupSetter__("__proto__"),b=y,c=z;return function(d){d=a.call(this,d);var e,f,g,h;t(c,b,{type:"ACCESS_SET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function C(a,b){D(a.productName,b);setInterval(function(){D(a.productName,b)},a.periodicReportingRateMillis)}
-var E="constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x".split(" "),F=E.concat,G=navigator.userAgent.match(/Firefox\/([0-9]+)\./),H=(!G||G.length<2?0:Number(G[1])<75)?["toSource"]:[],I;if(H instanceof Array)I=H;else{for(var J=l(H),K,L=[];!(K=J.next()).done;)L.push(K.value);I=L}var M=F.call(E,I),N=[];
-function D(a,b){var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();try{for(;!e.done;e=d.next()){var f=e.value;M.includes(f)||N.includes(f)||c.push(f)}}finally{m(d,e)}e=Object.prototype;d=[];for(f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);e=c.next();try{for(;!e.done;e=c.next())N.push(e.value.name)}finally{m(c,e)}var h;t(b,a,{type:"SEAL",origin:(h=window.location.origin)!=null?
-h:"unknown",report:{blockers:d}})}};var O=Math.random(),P=u(),Q=window.ppConfig;Q&&(Q.disableAllReporting||Q.deleteIsEnforced&&Q.sealIsEnforced||O<Q.heartbeatRate&&t(P,Q.productName,{origin:window.location.origin,type:"HEARTBEAT"}));var z=u(),R=window.ppConfig;if(R)if(R.deleteIsEnforced)delete Object.prototype.__proto__;else if(!R.disableAllReporting){var y=R.productName;try{var x,B;Object.defineProperty(Object.prototype,"__proto__",{enumerable:!1,get:w(),set:A()})}catch(a){}}
-(function(){var a=u(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!=="loading"?C(b,a):document.addEventListener("DOMContentLoaded",function(){C(b,a)})))})();}).call(this);
-</script><meta name="description" content="Procesamiento de textos, presentaciones y hojas de cálculo en la Web"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0"><link rel="shortcut icon" href="//docs.google.com/favicon.ico"><title>No se encontró la página</title><meta name="referrer" content="origin"><link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet" type="text/css" nonce="F6NPW_odpL34Gt3NX2YJUA"><style nonce="F6NPW_odpL34Gt3NX2YJUA">#drive-logo{margin:18px 0;position:absolute;white-space:nowrap}.docs-drivelogo-img{background-image:url(//ssl.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png);-webkit-background-size:116px 41px;background-size:116px 41px;display:inline-block;height:41px;vertical-align:bottom;width:116px}.docs-drivelogo-text{color:var(--gm3-sys-color-on-surface,#1f1f1f);display:inline-block;opacity:.54;text-decoration:none;font-family:Product Sans,Arial,Helvetica,sans-serif;font-size:2rem;text-rendering:optimizeLegibility;position:relative;top:-6px;left:-7px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi){.docs-drivelogo-img{background-image:url(//ssl.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png)}}.goog-inline-block{position:relative;display:-moz-inline-box;display:inline-block}* html .goog-inline-block{display:inline}:first-child+html .goog-inline-block{display:inline}sentinel{}</style><style type="text/css" nonce="F6NPW_odpL34Gt3NX2YJUA">body {background-color: #fff; font-family: Arial,sans-serif; font-size: 13px; margin: 0; padding: 0;}a, a:link, a:visited {color: #112ABB;}</style><style type="text/css" nonce="F6NPW_odpL34Gt3NX2YJUA">.errorMessage {font-size: 12pt; font-weight: bold; line-height: 150%;}</style></head><body><div id="outerContainer"><div id="innerContainer"><div style="position: absolute; top: -80px;"><div style="margin: 18px 0; position: absolute; white-space: nowrap;"><a href="//support.google.com/docs/"><img height="35px" src="//ssl.gstatic.com/docs/common/product/spreadsheets_lockup3.png" alt="Logotipo de Google"/></a></div></div><div align="center"><p class="errorMessage" style="padding-top: 50px">No se pudo abrir el archivo en este momento.</p><p> Verifica la dirección e inténtalo de nuevo.</p><div style="background: #F0F6FF; border: 1px solid black; margin-top: 35px; padding: 10px 125px; width: 300px;"><p><strong>Realiza tus proyectos con Google Drive</strong></p><p>Las aplicaciones de Google Drive te facilitan la tarea de crear, almacenar y compartir documentos, hojas de cálculo, presentaciones y otros archivos en línea.</p><p>Obtén más información en <a href="https://drive.google.com/start/apps">drive.google.com/start/apps</a>.</p></div></div></div></div></body><style nonce="F6NPW_odpL34Gt3NX2YJUA">html {height: 100%; overflow: auto;}body {height: 100%; overflow: auto;}#outerContainer {margin: auto; max-width: 750px;}#innerContainer {margin-bottom: 20px; margin-left: 40px; margin-right: 40px; margin-top: 80px; position: relative;}</style></html>
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+symbol,bidsize,bid,,ask,asksize,last,chg%,Strike,last VI,last VE,open,high,low,close,volume,nomvolume,lastupdate,Promedio,underlying,,
+GGAL,812,"4.895,00",STOCK,"4900,00",8.808,"4895,00","0,82%",,,,"4.855,00","4.970,00","4.842,50","4.855,00",3.542.290.828,720.859,14:14:36,"4913,99",,,
+,,,,,,,,,,,,,,,,,,,,Precio GGAL,Volumen Total GGAL
+GFGC4200DI,2,"764,552",CALL,"899,975",2,"850,000","4,29%","4200,0","58,54%","3,2%",800,"877,956",800,815,3.128.328,37,13:49:23,"845,494",4.895,"4.895,00",3.542.290.828
+GFGC4400DI,1,"613,117",CALL,"749,302",3,"752,220","19,78%","4400,0","69,96%","5,3%","700,043","752,22","683,841","628,019",1.775.246,25,13:27:17,"710,098",4.895,Volumen CALLS,Volumen PUTS
+GFGC4600DI,15,"505,048",CALL,"542,936",10,"530,504","8,14%","4600,0","51,80%","4,8%",555,"583,777",505,"490,55",54.331.050,1.030,14:00:55,"527,486",4.895,822.905.379,485.243.534
+GFGC4800DI,10,"411,000",CALL,"424,974",10,"414,932","8,98%","4800,0","52,71%","6,5%",420,455,380,"380,742",90.353.996,2.164,14:11:29,"417,532",4.895,,
+GFGC5000DI,23,"291,846",CALL,"310,000",25,"305,000","7,41%","5000,0","51,15%","6,2%","321,047",339,"273,028","283,965",82.606.174,2.613,14:09:03,"316,135",4.895,Vencimiento,18/12/2026 
+GFGC5200DI,42,"212,924",CALL,"231,496",40,"222,000","9,40%","5200,0","50,89%","4,5%",207,248,"195,661","202,916",204.782.973,9.162,14:09:37,"223,513",4.895,Plazo al Vto. (días),35
+GFGC5400DI,3,"155,000",CALL,"159,899",21,"160,000","9,22%","5400,0","51,15%","3,3%",200,200,138,"146,499",108.971.499,6.768,14:13:11,"161,010",4.895,Plazo al Vto. (years),"0,0959"
+GFGC5600DI,5,"108,002",CALL,"110,000",8,"110,998","8,52%","5600,0","50,96%","2,3%",110,"125,999","91,011","102,288",63.763.764,5.561,14:13:08,"114,662",4.895,TLR,"20,30%"
+GFGC5800DI,75,"71,605",CALL,"74,000",2,"74,831","1,66%","5800,0","50,71%","1,5%",75,"83,999",64,"73,608",84.674.052,11.204,14:13:27,"75,575",4.895,Precio Acción,
+GFGC6000DI,25,"49,190",CALL,"49,999",5,"49,999","1,56%","6000,0","50,73%","1,0%","51,999","57,899",43,"49,231",66.068.581,12.859,14:13:15,"51,379",4.895,Costo Financiero al Vto $,
+GFGC6200DI,45,"33,001",CALL,"34,499",3,"34,010","-2,55%","6200,0","51,22%","0,7%",35,40,"30,1","34,9",16.663.731,4.734,14:14:17,"35,200",4.895,Costo Financiero al Vto %,
+GFGC6400DI,85,"22,001",CALL,"23,550",4,"23,550","-1,61%","6400,0","51,98%","0,5%",26,28,"20,182","23,936",15.329.158,6.087,14:14:17,"25,183",4.895,CAUCIÓN,"20,30%"
+GFGC6600DI,105,"15,501",CALL,"17,662",96,"16,300","-8,96%","6600,0","52,72%","0,3%","17,5","21,899","15,061","17,904",12.090.401,6.780,14:13:18,"17,832",4.895,,
+GFGC6800DI,117,"10,601",CALL,"11,990",27,"11,990","-0,91%","6800,0","53,99%","0,2%","13,5","14,1","9,521","12,1",5.802.914,5.031,14:14:17,"11,534",4.895,,
+GFGC7000DI,143,"8,750",CALL,"9,498",115,"8,750","-5,17%","7000,0","55,08%","0,2%",10,"10,249","8,011","9,227",6.886.019,7.329,14:14:14,"9,396",4.895,,
+GFGC7200DI,175,"5,601",CALL,"6,697",885,"6,699","11,33%","7200,0","56,45%","0,1%","8,489","8,489","5,601","6,017",1.138.953,1.769,14:12:20,"6,438",4.895,,
+GFGC7400DI,125,"3,900",CALL,"5,000",555,"5,000","4,82%","7400,0","57,50%","0,1%","4,13","5,999","3,302","4,77",816.812,1.674,14:11:29,"4,879",4.895,,
+GFGC7600DI,115,"2,263",CALL,"4,498",129,"3,553","-0,62%","7600,0","58,09%","0,1%","4,198","4,999","3,552","3,575",248.642,583,14:04:58,"4,265",4.895,,
+GFGC7800DI,60,"2,753",CALL,"3,366",22,"2,753","-13,04%","7800,0","59,25%","0,1%","3,726","4,738","2,403","3,166",71.094,210,14:05:05,"3,385",4.895,,
+GFGC8000DI,2,"2,480",CALL,"2,750",44,"2,740","10,39%","8000,0","62,09%","0,1%","2,699","3,986","2,3","2,482",156.863,565,14:09:09,"2,776",4.895,,
+GFGC8300DI,60,"2,001",CALL,"2,398",102,"2,439","6,60%","8300,0","65,33%","0,0%","3,61","3,61","1,4","2,288",244.989,1.036,14:07:07,"2,365",4.895,,
+GFGC8600DI,103,"1,602",CALL,"1,900",12,"1,900","12,16%","8600,0","67,38%","0,0%",2,"2,699","1,13","1,694",237.783,1.187,14:09:12,"2,003",4.895,,
+GFGC8900DI,281,"1,600",CALL,"1,854",320,"1,600","5,68%","8900,0","69,77%","0,0%","1,65","2,27","1,451","1,514",399.282,2.210,14:09:26,"1,807",4.895,,
+GFGC9200DI,12,"1,450",CALL,"1,733",185,"1,554","6,58%","9200,0","72,98%","0,0%","1,48","1,999","1,33","1,458",1.402.761,8.100,14:11:29,"1,732",4.895,,
+GFGC9500DI,34,"1,157",CALL,"1,553",37,"1,362","-0,22%","9500,0","75,31%","0,0%","1,25","1,897","1,15","1,365",132.247,887,14:08:08,"1,491",4.895,,
+GFGC9900DI,7,"1,252",CALL,"1,399",78,"1,252","18,67%","9900,0","78,85%","0,0%","1,151","1,777","1,151","1,055",58.238,411,14:11:29,"1,417",4.895,,
+GFGC10300D,100,"1,003",CALL,"1,279",62,"1,256","26,23%","10300,0","82,84%","0,0%","1,094","1,699","0,986","0,995",769.828,5.870,14:01:14,"1,311",4.895,,
+,,,CALL,,,"0,000","0,00%",,,,,,,,,,,,4.895,,
+,,,CALL,,,"0,000","0,00%",,,,,,,,,,,,4.895,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+,,,,,,"0,000","0,00%",,,,,,,,,,,,,,
+GFGV4200DI,78,"46,001",PUT,"48,989",72,"47,000","-9,16%","4200,0","50,26%","1,0%",47,"56,785","42,001","51,739",37.575.979,7.654,14:11:15,"49,093",4.895,,
+GFGV4400DI,2,"83,009",PUT,"83,889",5,"83,890","-6,55%","4400,0","50,16%","1,7%",88,"98,1","75,001","89,772",60.574.739,7.182,14:12:00,"84,342",4.895,,
+GFGV4600DI,12,"136,000",PUT,"139,999",46,"135,000","-6,77%","4600,0","49,47%","2,8%","145,87",160,"126,274","144,806",67.876.542,4.952,14:09:34,"137,069",4.895,,
+GFGV4800DI,38,"215,000",PUT,"216,999",35,"215,000","-4,93%","4800,0","50,55%","4,4%","222,154","240,001",194,"226,16",117.377.805,5.466,14:14:37,"214,742",4.895,,
+GFGV5000DI,45,"301,003",PUT,"318,999",46,"310,000","-4,74%","5000,0","50,56%","4,2%",312,"349,979",285,"325,419",107.409.336,3.522,14:08:13,"304,967",4.895,,
+GFGV5200DI,60,"420,000",PUT,"433,000",1,"433,000","-3,34%","5200,0","51,94%","2,6%",430,469,399,"447,964",34.381.015,824,14:12:39,"417,245",4.895,,
+GFGV5400DI,5,"537,112",PUT,"578,976",8,"570,000","-3,19%","5400,0","52,79%","1,3%","601,634","608,453",511,"588,79",20.846.233,383,14:01:14,"544,288",4.895,,
+GFGV5600DI,1,"685,060",PUT,"744,949",10,"660,000","-12,40%","5600,0","40,46%","-0,9%","708,01","749,389",660,"753,444",11.723.242,163,13:27:25,"719,217",4.895,,
+GFGV5800DI,1,"901,010",PUT,"929,990",2,"910,000","-4,21%","5800,0","60,21%","0,1%",910,950,860,950,20.125.864,226,14:06:09,"890,525",4.895,,
+GFGV6000DI,3,"1060,000",PUT,"1119,930",1,"1030,000","-8,85%","6000,0","47,81%","-1,5%",1060,1100,1030,1130,3.167.587,29,13:17:36,"1092,271",4.895,,
+GFGV6200DI,1,"1251,490",PUT,"1329,440",2,"1299,990","-2,84%","6200,0","73,94%","-0,1%",1300,1300,1252,"1337,936",3.895.193,30,14:02:07,"1298,398",4.895,,
+GFGV6400DI,10,"1444,885",PUT,"1532,999",7,"1500,000","3,69%","6400,0","81,28%","-0,1%",1400,1500,1400,"1446,671",290.000,2,12:19:36,"1450,000",4.895,,
+GFGV6600DI,10,"1638,301",PUT,"1845,594",8,"0,000","0,00%","6600,0",,,0,0,0,"1720,921",0,0,,,4.895,,
+GFGV6800DI,10,"1831,718",PUT,"2053,315",8,"0,000","0,00%","6800,0",,,0,0,0,"1899,999",0,0,,,4.895,,
+GFGV7000DI,10,"2025,134",PUT,"2120,000",5,"0,000","0,00%","7000,0",,,0,0,0,"2056,784",0,0,,,4.895,,
+GFGV7200DI,10,"2218,550",PUT,"2425,864",8,"0,000","0,00%","7200,0",,,0,0,0,"2314,829",0,0,,,4.895,,
+GFGV7400DI,10,"2411,967",PUT,"2590,637",8,"0,000","0,00%","7400,0",,,0,0,0,"2476,519",0,0,,,4.895,,
+GFGV7600DI,10,"2605,383",PUT,"2810,016",6,"0,000","0,00%","7600,0",,,0,0,0,2222,0,0,,,4.895,,
+GFGV7800DI,10,"2798,799",PUT,"2997,315",6,"0,000","0,00%","7800,0",,,0,0,0,1900,0,0,,,4.895,,
+GFGV8000DI,10,"2992,216",PUT,"3175,878",8,"0,000","0,00%","8000,0",,,0,0,0,3000,0,0,,,4.895,,
+GFGV8300DI,10,"3282,340",PUT,"3670,000",10,"0,000","0,00%","8300,0",,,0,0,0,1100,0,0,,,4.895,,
+GFGV8600DI,10,"3572,465",PUT,"3799,068",8,"0,000","0,00%","8600,0",,,0,0,0,"2644,873",0,0,,,4.895,,
+GFGV8900DI,10,"3862,589",PUT,"4058,276",8,"0,000","0,00%","8900,0",,,0,0,0,"2942,609",0,0,,,4.895,,
+GFGV9200DI,10,"4152,714",PUT,"4333,059",8,"0,000","0,00%","9200,0",,,0,0,0,"4213,601",0,0,,,4.895,,
+GFGV9500DI,10,"4442,838",PUT,"4634,265",8,"0,000","0,00%","9500,0",,,0,0,0,"4514,831",0,0,,,4.895,,
+GFGV9900DI,10,"4829,671",PUT,"5045,649",8,"0,000","0,00%","9900,0",,,0,0,0,"4927,07",0,0,,,4.895,,
+GFGV10300D,10,"5216,504",PUT,"5694,714",8,"0,000","0,00%","10300,0",,,0,0,0,4090,0,0,,,4.895,,
+,,,PUT,,,"0,000","0,00%",,,,,,,,,,,,4.895,,
+,,,PUT,,,"0,000","0,00%",,,,,,,,,,,,4.895,,
